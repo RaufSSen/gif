@@ -1,0 +1,974 @@
+{
+    "acrophobia": {
+      "description": "Bir akrofobi oyunu başlatlr. Oyuncunun verilen kelimelerden bir cümleyi verilen zamanda yapması gerekir. Oyun bittiğinde oyuncular en iyi cümleye oy verirler, en çok oyu olan kazanır."
+    },
+    "addAutoAssignableRoles": {
+      "description": "Belirtilen rolleri otomatik olarak yerine var sayılan roller arasına alır, sunucuya katılan herhangi borisi bu rolleri otomatik olarak edinir."
+    },
+    "addFilteredWords": {
+      "description": "Belirlenmiş kelimeleri filtrelenmiş kelimelerin arasına ekler eğer birisi bu kelimelerden birini kullanırsa mesajı otomatik olarak silinir."
+    },
+    "addRole": {
+      "description": "Belirlenen rolleri belirlenen oyuncuya ekler."
+    },
+    "addSelfAssignableRoles": {
+      "description": "Belirlenen rolleri kendi kendine edinilebilen rollerin arasına koyar `iAm yada `iAmNot komutları belirlenen rolü edindirir ve belirlenen rolden çıkarır."
+    },
+    "addTrigger": {
+      "description": "Bir ileti tetikleyici ve bir yanıt ekler. Bu tetikleyici kelime/cümle içeren bir ileti gönderildiğinde, Sessiz ayarladığınız yanıt ile cevaplar."
+    },
+    "addWhitelistDomains": {
+      "description": "Bağlantı filtresinin beyaz listesine bir alan ekler."
+    },
+    "afk": {
+      "description": "Seni Klavyeden Uzakta (AFK) ayarlar. Böylece birileri sizden bahsettiğinde, Sessiz onlara AFK olduğunuzu bildirir. Geri döndüğünüzde otomatik olarak devre dışı bırakılır."
+    },
+    "airhorn": {
+      "description": "Bir ses kanalında korna sesi oynatır."
+    },
+    "anime": {
+      "description": "Bir Anime ayrıntılarını arar."
+    },
+    "animoji": {
+      "description": "Discord Sunucundaki belirtili hareketli emojinin büyük sürümünü atar, ve Nitro gerekli değildir."
+    },
+    "announce": {
+      "description": "Sessiz bağlı olan tüm sunucuların duyuru kanalına bir mesaj gönderin."
+    },
+    "announcementChannel": {
+      "description": "Bir duyuru kanalı ekler/kaldırır. Bu kanalda bot sahibi tarafından yapılan duyuruları alacaksınız."
+    },
+    "apod": {
+      "description": "Evreni keşfedin! Her gün büyüleyici evrenimizin farklı bir görüntüsü veya fotoğrafı, profesyonel bir astronom tarafından yazılan kısa bir açıklama ile birlikte yer alır."
+    },
+    "ark": {
+      "description": "ARK: Survival Evolved oyun sunucusu istatistikleri alın."
+    },
+    "autoDisconnect": {
+      "description": "Ses kanalından otomatik bağlantıyı keser. Etkinleştirilirse Sessiz, başka hiç kimse bağlanmadığında bant genişliğinden tasarruf etmek için ses kanalını otomatik olarak terk eder."
+    },
+    "autoPlay": {
+      "description": "Otomatik müzik geçişi yapar."
+    },
+    "avatar": {
+      "description": "Discord sunucunuzun belirli bir kullanıcısının avatarını gösterir."
+    },
+    "ban": {
+      "description": "Belirtilen kullanıcıyı Discord sunucunuzdan yasaklar ve ileti geçmişinin 7 gününü kaldırır."
+    },
+    "SessizCurrency": {
+      "description": "Belirlenen kullanıcının hesabındaki %currency.name_plural% miktarını gösterir."
+    },
+    "battlefield1": {
+      "description": "Battlefield 1 oyuncusunun istatistiklerini alın."
+    },
+    "battlefield4": {
+      "description": "Battlefield 4 oyuncusunun istatistiklerini alın."
+    },
+    "beLikeBill": {
+      "description": "Diğerlerine moral destek olması için, bill gibi olun caps'ini atar."
+    },
+    "betFlip": {
+      "description": "Bir jeton çevirmenin sonucunun tahmininde %currency.name_plural% bahis oynayın. Eğer kazanırsan, daha fazlasını elde edersin. Ama kaybedersen, bahis tutarını kaybedersin."
+    },
+    "betRoll": {
+      "description": "Bir jeton çevirmenin sonucunun tahmininde %currency.name_plural% bahis oynayın. Eğer kazanırsan, daha fazlasını elde edersin. Ama kaybedersen, bahis tutarını kaybedersin."
+    },
+    "blacklist": {
+      "description": "Sessiz'un kara liste için belirtilen bir kullanıcı ekler veya kaldırır. Kara listeye kullanıcılar Tabyası'nın komutlardan herhangi birini kullanamazsınız."
+    },
+    "blockText": {
+      "description": "Verilen metni, metin emojisi olarak gönderir."
+    },
+    "book": {
+      "description": "Bir kitabın ayrıntılarını arar"
+    },
+    "buy": {
+      "description": "Sunucunun dükkanından ürün satın alın. Satın alırken başka bir üyeye de hediye edebilirsiniz."
+    },
+    "buyRole": {
+      "description": "Sunucunun Rol Mağazasından rol satın al."
+    },
+    "calculate": {
+      "description": "Herhangi bir matematiksel ifadeyi değerlendirir."
+    },
+    "callOfDuty4": {
+      "description": "Herhangi bir Call of Duty 4: Modern Warfare oyun sunucusunun istatistiklerini alın."
+    },
+    "callOfDutyModernWarfare3": {
+      "description": "Herhangi bir Call of Duty: Modern Warfare 3 oyun sunucusunun istatistiklerini alın."
+    },
+    "capture": {
+      "description": "Belirtilen web sayfasının ekran görüntüsünü yakalar."
+    },
+    "case": {
+      "description": "Kayıt günlüğü olay numarasını kullanarak kayıt günlüğü kanalında, oturum açan herhangi bir kayıt eylemi getirir."
+    },
+    "cat": {
+      "description": "Rastgele bir kedi resmi gösterir."
+    },
+    "catFact": {
+      "description": "Kediler hakkında rastgele özellikleri gösterir."
+    },
+    "catify": {
+      "description": "Hiçbir dize belirtilmemişse, verilen dizeden veya Discord etiketinizden rastgele bir kedi resmi oluşturur."
+    },
+    "changelog": {
+      "description": "Sessiz Bot geçerli sürümünde yapılan değişiklikleri gösterir."
+    },
+    "channelID": {
+      "description": "Discord sunucunuzun belirli bir kanalının kimliğini gösterir."
+    },
+    "channelInfo": {
+      "description": "Discord sunucunuzun belirli bir metninin veya ses kanalının bilgilerini gösterir."
+    },
+    "channelTopic": {
+      "description": "Discord sunucunuzun metin kanalının kanal konusunu gösterir."
+    },
+    "chat": {
+      "description": "Sessiz sohbet modülünü değiştirir."
+    },
+    "checkPermissions": {
+      "description": "Sessiz'un sunucuda/kanalda sahip olduğu izinleri gösterir."
+    },
+    "choose": {
+      "description": "Bir dizi seçenek arasından bir seçenek belirlemek için bot sorar."
+    },
+    "cite": {
+      "description": "Discord sunucunuzdan herhangi bir mesaj alın."
+    },
+    "claim": {
+      "description": "Günlük ödülünü Toplar."
+    },
+    "clashOfClans": {
+      "description": "Herhangi bir Clash of Clans oyuncunun istatistiklerini alın veya bir klan arayın."
+    },
+    "clean": {
+      "description": "Tüm şarkıları Discord sunucunuzun mevcut kuyruğundan kaldırır."
+    },
+    "clear": {
+      "description": "Discord sunucunuzun bir metin kanalından belirli mesajların bir bölümünü siler."
+    },
+    "clearWarn": {
+      "description": "Seçilen kullanıcının tüm uyarıları temizler."
+    },
+    "coinMarketCap": {
+      "description": "Belirtilen kripto para biriminin piyasa değerini gösterir."
+    },
+    "colour": {
+      "description": "`HEX` renk formatını ya da `RGB`, `CMYK`, `HSL`, `HSV`, `HWB`, `LAB`, `ANSI16`, `ANSI256`, `XYZ`, `HCG`, `Apple`, `Gray` ve `CSS` formatındaki renk kodlarını en yakın renge çevirir."
+    },
+    "commandAnalytics": {
+      "description": "Sunucuda en çok kullanılan komutları gösterir."
+    },
+    "commandSearch": {
+      "description": "Belirtilen metni içeren bir komut için arama yapın."
+    },
+    "commands": {
+      "description": "Komut kategorilerinin listesini gösterir. Ve eğer bir kategori belirtilmişse, Sessiz bu kategorideki komutların bir listesini gösterecektir."
+    },
+    "contributors": {
+      "description": "[GitHub] 'da Sessiz Bot'un gelişimine katkıda bulunan kişilerin listesini gösterir (%github.org%/Sessiz)."
+    },
+    "counterStrikeGlobalOffensive": {
+      "description": "Herhangi bir Counter-Strike: Global Offensive oyun sunucusunun istatistikleri öğrenin."
+    },
+    "createCategory": {
+      "description": "Discord Sunucunuzda yeni bir kanal kategorisi oluşturur."
+    },
+    "createChannel": {
+      "description": "Yeni bir metin veya ses kanalı anlaşmazlık sunucunuzda oluşturur."
+    },
+    "createEmoji": {
+      "description": "Discord Sunucunuzda yeni bir emoji oluşturur."
+    },
+    "createRole": {
+      "description": "Discord sunucunuzda yeni bir rol oluşturur."
+    },
+    "crimeCoefficient": {
+      "description": "Bir kullanıcının suç katsayısını bulun."
+    },
+    "cuddle": {
+      "description": "Birine sarıl!"
+    },
+    "currencyGiveaway": {
+      "description": "Belirli bir süre için bir giveaway başlar, olay bitmiştir sonra kullanıcılar belirtilen %currency.name_plural% miktarını alırsınız."
+    },
+    "date": {
+      "description": "Herhangi bir şehrin yerel tarih ve saat belirtilen gösterir."
+    },
+    "deafen": {
+      "description": "Discord sunucunuzda sunucu çapında belirli bir kullanıcı susturur."
+    },
+    "define": {
+      "description": "İngilizce, Fransızca veya Almanca sözlükten belirtilen kelime arar."
+    },
+    "deleteAllTriggers": {
+      "description": "Tüm triggerlerı ve ayarladığınız yanıtı siler."
+    },
+    "deleteChannel": {
+      "description": "Belirtilen metin veya sesli kanalı Discord sunucunuzdan siler."
+    },
+    "deleteRole": {
+      "description": "Belirtilen rolü Discord sunucunuzdan siler."
+    },
+    "deleteTrigger": {
+      "description": "Belirtilen ileti tetikleyici siler."
+    },
+    "destiny2": {
+      "description": "Herhangi bir Destiny 2 oyuncusunun istatistiklerini öğrenin."
+    },
+    "disableCommand": {
+      "description": "Sunucunuzdan komut/modül kapatın."
+    },
+    "disconnect": {
+      "description": "Sessiz'u Discord sunucundaki ses kanalından çıkar."
+    },
+    "discrim": {
+      "description": "Discord sunucunuzun kullanıcılarını belirtilen ayrımcı için arar."
+    },
+    "dog": {
+      "description": "Rasgele Köpek Fotoğrafı Gösterir."
+    },
+    "donate": {
+      "description": "Sessiz Bot projenin geliştirilmesi mali destek hakkında talimatlar."
+    },
+    "echo": {
+      "description": "Gönderdiğiniz mesajı gönderir. Tıpkı bir yankı gibi!"
+    },
+    "edgeLord": {
+      "description": "Bir kenar efendisinden bir mesaj gösterir."
+    },
+    "emoji": {
+      "description": "Belirtilen emojinin büyük bir sürümünü gönderir."
+    },
+    "emojiInfo": {
+      "description": "Discord sunucunuzun belirli bir emojisinin bilgilerini gösterir."
+    },
+    "enableCommand": {
+      "description": "Sunucunuzdan komut/modül açın yada kapatın."
+    },
+    "endpoll": {
+      "description": "Aynı metin kanal kanal şu anda çalışan bir ankette sona erer ve sonucunu gösterir."
+    },
+    "eval": {
+      "description": "JavaScript kodu olarak değerlendirir."
+    },
+    "exec": {
+      "description": "Terminal (Linux / macOS) veya Komut İstemi'nde (Windows) bir komutu çalıştırır ve çıktısını gösterir. Komutu 1 dakikadan daha uzun bir süre boyunca çalışırsa sona erdireceğini unutmayın."
+    },
+    "fakeBan": {
+      "description": "Bir kullanıcıyı sunucudan yasaklar *. Gerçekten de değil, onlarla uğraşmak için."
+    },
+    "farewell": {
+      "description": "Sunucudan ayrılan üyelere veda mesajının gönderilmesini sağlar."
+    },
+    "farewellMessage": {
+      "description": "Bir üye sunucudan ne zaman ayrıldığını gösteren veda iletisini düzenler."
+    },
+    "farewellTimeout": {
+      "description": "Veda mesajının otomatik olarak silineceği süreyi ayarlar."
+    },
+    "fidgetSpinner": {
+      "description": "Sizin için bir stres çarkı döndürür ve ne kadar süre boyunca döndüğünü gösterir."
+    },
+    "filterEmojis": {
+      "description": "Emoji spam olan iletilerin otomatik olarak silinmesini sağlar. Emoji içeriğinin% 50'sinden fazlasına sahip iletiler emoji spam'ı olarak kabul edilir."
+    },
+    "filterInvite": {
+      "description": "Sunucuda yayınlanan Discord sunucu davetiyelerinin otomatik olarak silinmesini sağlar."
+    },
+    "filterLink": {
+      "description": "Sunucuda Yayınlanan herhangi bir bağlantıları otomatik olarak silme açar veya kapatır."
+    },
+    "filterMentionSpam": {
+      "description": "Sunucudaki söz konusu spam'lerin filtrelenmesini değiştirir ve alınacak eşiği ve işlemi de belirler."
+    },
+    "filterWord": {
+      "description": "Filtre uygulanan herhangi bir kelime içeren otomatik olarak silme iletileri açar veya kapatır."
+    },
+    "flip": {
+      "description": "Paralar belirtilen miktarda çevirir ve sonuçları gösterir."
+    },
+    "flipText": {
+      "description": "Gönderdiğiniz mesajı gönderir ancak aynı mesajı gönderir."
+    },
+    "followURL": {
+      "description": "•Son URL'yi ulaşır ve gösterir kadar bir URL'ye izler takip URL. Kısaltılmış URL almak için yararlı."
+    },
+    "forecast": {
+      "description": "Hava tahmini için belirtilen şehir 5 gün gösterir."
+    },
+    "fortnite": {
+      "description": "Herhangi bir Fortnite oyuncusunun istatistiklerini öğrenin."
+    },
+    "fortune": {
+      "description": "Size bir şans kurabiyesi birinden bir servet gösterir."
+    },
+    "game": {
+      "description": "Bir oyunun detaylarını arar."
+    },
+    "garfield": {
+      "description": "Sana bir Garfield Karikatürü gösterir."
+    },
+    "generateInvite": {
+      "description": "Anlaşmazlık sunucunuzun geçerli metin kanalının bir davet bağlantısı oluşturur."
+    },
+    "giphy": {
+      "description": "Aramalar Animasyonlu GIF'ler web ve rasgele bir GIF verilen sorguya dayalı gönderir."
+    },
+    "give": {
+      "description": "Hesabınızdan belirtilen kullanıcıya belirtilen %currency.name_plural% miktarını verin. Sunucu sahibiyseniz, herhangi bir miktarda %currency.name_plural% verebilirsiniz."
+    },
+    "giveXP": {
+      "description": "Belirtilen miktarda deneyim puanını belirtilen kullanıcıya verin ve seviyelerini yükseltin."
+    },
+    "giveaway": {
+      "description": "Bir hediye etkinliği başlatır, seçtiğiniz öğe ile, verilen süre boyunca, etkinlik sona erdikten sonra rastgele bir kazanan seçilir. Etkinlik en az 1 saat ve en fazla 12 saat boyunca koşabilir."
+    },
+    "google": {
+      "description": "Belirtilen sorgu için Google’ı arar ve en iyi sonuçları gösterir."
+    },
+    "greet": {
+      "description": "Sunucuya katılan üyeler için tebrik mesajı gönderimini değiştirir."
+    },
+    "greetMessage": {
+      "description": "Bir üye sunucuya katıldığında gösterilen tebrik mesajını düzenler."
+    },
+    "greetPrivate": {
+      "description": "Sunucuya katılan üyelere tebrik mesajı göndermeyi doğrudan mesaj olarak değiştirir."
+    },
+    "greetPrivateMessage": {
+      "description": "Bir üye sunucuya katıldığında doğrudan mesaj olarak gönderilen tebrik mesajını düzenler."
+    },
+    "greetTimeout": {
+      "description": "Karşılama mesajının otomatik olarak silineceği süreyi ayarlar."
+    },
+    "guide": {
+      "description": "Özel Sessiz Bot'un nasıl kurulacağı ve kurulacağı konusunda size rehberlik eder. Ve Sessiz HQ'ya bağlantılar."
+    },
+    "hello": {
+      "description": "Sessiz 'dan selamlar alın."
+    },
+    "help": {
+      "description": "Belirtilen komutla ilgili yardımı gösterir."
+    },
+    "hug": {
+      "description": "Birine sarıl!"
+    },
+    "iAm": {
+      "description": "Kullanıcıya belirtilen kendinden atanabilir rolü verir."
+    },
+    "iAmNot": {
+      "description": "Belirtilen kendinden atanabilir rolü kullanıcıya geri çevirin."
+    },
+    "ignoreChannels": {
+      "description": "Yok sayılan kanalların listesine kanal ekler veya çıkarır. Sessiz, kanalda yok sayılan komutları kabul etmiyor."
+    },
+    "ignoreInviteFilter": {
+      "description": "Davet etme filtresi yoksayılan listesine / listesinden kanal / rol ekleyin / kaldırın. Sessiz, bu kanallarda veya bu rollerde yayınlanan davetleri filtrelemez."
+    },
+    "ignoreLinkFilter": {
+      "description": "Bağlantı filtresi yok sayılan listesine kanal / roller ekleyin / kaldırın. Sessiz bu kanallarda veya bu rollerde yayınlanan linkleri filtrelemez."
+    },
+    "ignoreMentionFilter": {
+      "description": "Belirtilen yoksay listeye / listesinden kanal / rol ekle / kaldır. Sessiz, bu kanallardaki veya bu rollerin içindeki söz konusu spazmları filtrelemez."
+    },
+    "ignoreRoles": {
+      "description": "Yok sayılan roller listesine rol ekler veya listeden çıkarır. Sessiz, ihmal edilen rollerdeki hiçbir emri kabul etmiyor."
+    },
+    "ignoreStarboard": {
+      "description": "Sancak yok sayılan listesine kanal / roller ekleyin / kaldırın. Sessiz, bu kanallardan veya rollerden gelen yıldızlı mesajları kaydetmeyecektir."
+    },
+    "ignoreWordFilter": {
+      "description": "Bağlantı filtresi yok sayılan listesine kanal / roller ekleyin / kaldırın. Sessiz bu kanallarda veya bu rollerde yayınlanan linkleri filtrelemez."
+    },
+    "ignoreXP": {
+      "description": "Deneyim yok sayılan listesine / listesinden kanal / rol ekleyin / kaldırın. Kullanıcılar bu kanallarda veya bu rollere sahiplerse deneyim kazanamayacaklar."
+    },
+    "inRole": {
+      "description": "Discord sunucu belirtilen rolü olan üyeleri gösterir."
+    },
+    "isBreached": {
+      "description": "Bir site geçmişte ihlal Eğer kontrol edin."
+    },
+    "jumbledSentence": {
+      "description": "Verilen karışık cümleyi çöz ve arkadaşlarınla ​​eğlenirken cümle kurma becerilerini geliştir."
+    },
+    "jumbledWord": {
+      "description": "Verilen karışık kelimeyi çözün ve arkadaşlarınızla eğlenirken kelime hazinenizi arttırın."
+    },
+    "kick": {
+      "description": "Belirtilen kullanıcıyı discord sununuzdan atar."
+    },
+    "kiss": {
+      "description": "Birine öp!"
+    },
+    "lastSeen": {
+      "description": "Belirtilen kullanıcı son anlaşmazlık içinde sosyalleşme görüldü beri zaman gösterir."
+    },
+    "leaderboard": {
+      "description": "Sessiz çizelgesini atlayan kullanıcıları gösterir."
+    },
+    "leave": {
+      "description": "Belirtilen sunucu bırakmak Sessiz sorar."
+    },
+    "leet": {
+      "description": "Gönderilen, aynı iletiyi gönderir ama leet metin olarak."
+    },
+    "level": {
+      "description": "Belirtilen kullanıcı hesabının geçerli level gösterilir."
+    },
+    "levelUpMessage": {
+      "description": "Birisi sunucudaki seviyeye yükseldiğinde mesaj göndermeyi açar / kapatır."
+    },
+    "levelUpRoles": {
+      "description": "Ekleme / Kaldırma / Gösterme düzeyindeki roller. Seviyelendirme rolleri, sunucu üyelerine seviyelendiğinde eklenen rollerdir."
+    },
+    "listAutoAssignableRoles": {
+      "description": "Tüm otomatik atanabilir rolleri listeler."
+    },
+    "listFilteredWords": {
+      "description": "Tüm filtre uygulanmış sözcükleri listeler."
+    },
+    "listScheduledCommands": {
+      "description": "Zamanlanmış komutları listeler."
+    },
+    "listSelfAssignableRoles": {
+      "description": "Tüm otomatik atanabilir rolleri listeler."
+    },
+    "listServers": {
+      "description": "Sessiz'un bağlı olduğu tüm Discord sunucularını geçerli parçada listeler."
+    },
+    "listTriggers": {
+      "description": "Tüm yapılmış trigerleri listeler."
+    },
+    "listWarns": {
+      "description": "Discord Sunucunuzdaki tüm uyarılmış kullanıcıları listeler. Ve belirli bir kullanıcı belirtilirse, söz konusu kullanıcıya verilen tüm uyarıları listeler."
+    },
+    "listWhitelistDomains": {
+      "description": "Bağlantı filtresi için tüm beyaz liste etki alanlarını listeler."
+    },
+    "live": {
+      "description": "Kim şu anda akış Discord sunucu kullanıcıların listesini gösterir."
+    },
+    "lmgtfy": {
+      "description": "Kullanıcılara bir internet araması yapmayı ve sorularına cevap almayı öğretin."
+    },
+    "lockdown": {
+      "description": "Herkes açıkça bunun için iznine sahip değil göndermek için engelleyen bir kanal aşağı kilitler."
+    },
+    "log": {
+      "description": "Sunucudaki çeşitli etkinliklerin günlüğünü açıp kapatır."
+    },
+    "lyrics": {
+      "description": "Belirtilen şarkının sözlerini gösterir."
+    },
+    "magic8ball": {
+      "description": "Senin Cevabını Almak isteğin (Evet/Hayır) soruları Magic 8-Ball cevaplar."
+    },
+    "manga": {
+      "description": "Bir Manga ayrıntılarını arar."
+    },
+    "map": {
+      "description": "Belirtilen konumun haritasını alın."
+    },
+    "membersOnly": {
+      "description": "Yalnızca üyelerin Sessiz modunu değiştirir. Yalnızca Üyeler modu etkinse, yalnızca sunucuda en az bir rolü olan kullanıcılar, Sessiz'un Komutlarını kullanabilir."
+    },
+    "mentionRole": {
+      "description": "Bahsettiğim herhangi bir rolü belirtmiyor."
+    },
+    "messageChannel": {
+      "description": "Sessiz erişimi olan herhangi bir belirtilen metin kanal için belirtilen bir mesaj."
+    },
+    "messageUser": {
+      "description": "Sessiz'un erişimi olan herhangi bir kullanıcıya belirli bir mesaj gönderin."
+    },
+    "minecraft": {
+      "description": "Herhangi bir Minecraft oyun sunucusunun istatistiklerini alın."
+    },
+    "modLog": {
+      "description": "Sunucu çeşitli ılımlılık olaylarının günlüğe kaydedilmesini geçiş yapar."
+    },
+    "morseCode": {
+      "description": "Belirli bir metin Mors kodu olarak kodlar."
+    },
+    "moveMembers": {
+      "description": "Bir ses kanalındaki tüm üyeleri belirtilen başka bir ses kanalına taşır."
+    },
+    "movie": {
+      "description": "Bir Anime ayrıntılarını arar."
+    },
+    "music": {
+      "description": "Belirtilen sunucu için müzik desteğini aç / kapat."
+    },
+    "musicChannel": {
+      "description": "Kimliği ve metin kanal (Bu komut içinde kullanılan kanal) tarafından belirtilen bir ses kanalı sizin Discord sunucu müzik modül için varsayılan olarak ekler. Yani, Sessiz yalnızca metin kanal müzik komutları kabul eder ve herhangi bir ses kanalı katılmaya isterse, otomatik olarak belirtilen ses kanalı katılacak."
+    },
+    "musicMasterRole": {
+      "description": "Sessiz, müzik yüksek lisans rolü anlaşmazlık sunucunuzda olarak onun kimliği tarafından belirtilen rol ekler. Kullanıcılar bu rolü ile 'çağırmak', 'oyun', vb gibi sınırlı müzik komutlara erişmek ve çağırmak ve Discord sunucu herhangi bir ses kanalı müzik çalmak."
+    },
+    "mute": {
+      "description": "Belirtilen kullanıcı Sunucu Discord sunucu çapında sesini kapatır."
+    },
+    "muteList": {
+      "description": "Discord Sunucunuzdaki, Susturlmuş Kullanıcıları Gösterir."
+    },
+    "myItems": {
+      "description": "Sunucunun dükkanından satın aldığınız öğeleri gösterir."
+    },
+    "nickname": {
+      "description": "Belirli kullanıcınin adını değistirir."
+    },
+    "nowPlaying": {
+      "description": "Şu anda, Discord sunucunda Sessiz nın oynattığı şarkı ayrıntılarını gösterir."
+    },
+    "overwatch": {
+      "description": "Herhangi bir Overwatch oyuncusunun durumunu öğrenin."
+    },
+    "paladins": {
+      "description": "Herhangi bir Paladins oyuncusunun durumunu öğrenin."
+    },
+    "pat": {
+      "description": "Birini sever!"
+    },
+    "patrons": {
+      "description": "Sessiz Bot projesinin gelişimini sürekli destekleyen, benim patronum olan [Patreon] (%patreon%) adlı kişiyi gösterir. Ancak, Sessiz'a ev sahipliği yapıyorsanız ve bir Patreon yaratıcısıysanız, Müşterilerinizin listesini gösterir."
+    },
+    "pause": {
+      "description": "Şuankı oynan şarkıyı durdurur."
+    },
+    "ping": {
+      "description": "Ortalama WebSocket ve Sessiz'un pingini gösterir."
+    },
+    "pirateSpeak": {
+      "description": "Gönderdiğiniz mesajı ancak korsan konuştıkça gönderir."
+    },
+    "play": {
+      "description": "Sessiz, Discord sunucunuzda zaten oynuyorsa, bir şarkıyı çalar veya o şarkıyı geçerli müzik kuyruğuna ekler; ada veya bağlantıya göre veya en sevdiğiniz şarkılar listesinden veya bir YouTube çalma listesi bağlantısından belirtilir."
+    },
+    "playlist": {
+      "description": "Belirli çalma listesine şarkı ekleme veya bir çalma listesindeki şarkı listesini görüntüler."
+    },
+    "pokemon": {
+      "description": "Belirtilen Pokémon'un bilgileri gösterir."
+    },
+    "poll": {
+      "description": "Geçerli metin kanalında, kullanıcılardan belirtilen süre ile oy kullanmalarını isteyen bir anket başlatır. Zaman belirtilmezse, anket 60 dakika içinde sona erer."
+    },
+    "pollStats": {
+      "description": "Kanalda o anda çalışmakta olan anketin istatistiklerini gösterir."
+    },
+    "profile": {
+      "description": "Belirtilen kullanıcı anlaşmazlık sunucunuzun Sessiz kullanıcı profilini gösterir."
+    },
+    "pubg": {
+      "description": "Herhangi bir PlayerUnknown's Battlegrounds oyuncusunun durumunu öğrenin."
+    },
+    "punch": {
+      "description": "Başka bir kullanıcıya yumruk atın."
+    },
+    "quake3": {
+      "description": "Herhangi bir Quake 3 oyun sunucusunun istatistiklerini edinin."
+    },
+    "queue": {
+      "description": "Tüm şarkıların listesi Discord sunucu geçerli müzik sıraya gösterir."
+    },
+    "quotes": {
+      "description": "İlham almak için bir teklif gösterir."
+    },
+    "race": {
+      "description": "Sessiz'a karşı yarış başlatın."
+    },
+    "rainbow6": {
+      "description": "Herhangi bir Rainbow Six oyuncusunun durumunu öğrenin."
+    },
+    "rank": {
+      "description": "Belirlenen kullanıcının rütbesini gösterir."
+    },
+    "reactionAnnouncements": {
+      "description": "Bu sunucudaki Reaksiyon Duyuruları etkin. Bir mesaja 📣 veya 📢 reaksiyonu eklemek, bir ilan kanalı ayarlanmışsa, mesajı duyuru kanalına gönderir."
+    },
+    "reactionPinning": {
+      "description": "Sunucudaki Reaksiyon Sabitlemesini değiştirir. Reaction Pinning etkinse, bir mesaja 📌 veya 📍 reaksiyonu eklemek mesajı kanala bağlar ve reaksiyonları kaldırmak da onu kaldırır."
+    },
+    "reactionRolesGroup": {
+      "description": "Bir grup Tepki Rolü oluşturur ve kullanıcıların kendilerine kendilerine atadıkları rollere tepki gösterebilecekleri bir mesaj gönderir ve bunun tersi de geçerlidir."
+    },
+    "reason": {
+      "description": "Denetleme günlüğü kanalına kaydedilen denetleme eyleminin nedenini ekleyin / güncelleyin. Yalnızca sorumlu moderatör veya yönetici izinlerine sahip herhangi biri nedeni değiştirebilir."
+    },
+    "relayDirectMessages": {
+      "description": "Sessiz'a gönderilen doğrudan mesajların gelen kutunuza aktarılmasını sağlar."
+    },
+    "reloadSettings": {
+      "description": "`Ayarlar` dizininde saklanan Sessiz ayarlarını önbellekten yeniden yükler. `Ayarlar` dizinindeki dosyaları değiştirirken, yeniden başlatmak gerekmeden yeniden yüklemek için bu komutu kullanın."
+    },
+    "reminder": {
+      "description": "Sessiz belirtilen mesajla doğrudan mesaj, belirli bir süre sonra anımsatmak için bir hatırlatma ayarlar."
+    },
+    "remove": {
+      "description": "Hoşuna gitmeyen maddeyi kaldırma iyi eğlenceler. Kaldırmak istediğiniz öğeleri belirtin. Gerçek olsa da olmayacak!"
+    },
+    "removeAllRoles": {
+      "description": "Tüm rolleri Discord sunucu belirtilen kullanıcıdan kaldırır."
+    },
+    "removeAutoAssignableRole": {
+      "description": "Otomatik atanabilir roller listesinden bir rol siler."
+    },
+    "removeFilteredWord": {
+      "description": "Filtrelenmiş kelimeler listesinden bir sözcük siler."
+    },
+    "removeRole": {
+      "description": "Belirtilen rolü Discord sunucunuzun belirtilen bir kullanıcısından kaldırır."
+    },
+    "removeSelfAssignableRole": {
+      "description": "Bir rol kendi kendine atanabilir roller listesinden siler."
+    },
+    "removeSong": {
+      "description": "Bir şarkı tarafından bu geçerli müzik sırasından kaldırır numarasını yerleştirin."
+    },
+    "removeWhitelistDomain": {
+      "description": "Bir etki alanı beyaz liste etki alanları listesinden siler."
+    },
+    "renameChannel": {
+      "description": "Belirtilen metin veya sesli kanal anlaşmazlık sunucunuzun yeniden adlandırır."
+    },
+    "renameRole": {
+      "description": "Belirtilen rolü Discord sunucunuzdan tekrar isimlendirir."
+    },
+    "repeat": {
+      "description": "Geçerli kayıttan yürütme tamamlandıktan sonra bir kez daha tekrarlamak geçerli şarkıyı tekrar sırasına ekler."
+    },
+    "report": {
+      "description": "Discord sunucunuzun bir kullanıcısını sunucu personeline bildirir. * Rapor Kanalı'nın ayarlanması gerekiyor. *"
+    },
+    "reportChannel": {
+      "description": "Kanalı rapor kanalı olarak ekler / kaldırır. Etkinleştirilmişse, kullanıcılar `report` komutunu kullanarak sunucu üyelerini rapor ettiğinde, raporlar bu kanala gönderilir."
+    },
+    "reputation": {
+      "description": "Diğer kullanıcılara karma verin. Karma'yı 12 saatte sadece bir kez verebilirsiniz."
+    },
+    "resetDatabase": {
+      "description": "Sessiz veritabanının belirtilen bir tablosundaki tüm verileri sıfırlar."
+    },
+    "resetModerationLogs": {
+      "description": "Denetleme günlüğü durumlarını 1'e geri döndürür."
+    },
+    "resume": {
+      "description": "Önceden duraklatılan oynatmayı devam ettirir."
+    },
+    "reverse": {
+      "description": "Gönderdiğiniz mesajın aynısını gönderir, ancak tersine çevirir."
+    },
+    "rip": {
+      "description": "Bir şey (ya da her şey) için başsağlığı göster."
+    },
+    "roblox": {
+      "description": "Herhangi bir Roblox oynatıcısı hakkında bilgi edinin."
+    },
+    "robotify": {
+      "description": "Belirtilen dizgeden veya belirtilmemişse Discord etiketinizden rasgele bir robot görüntüsü üretir."
+    },
+    "rocketLeague": {
+      "description": "Herhangi bir Rocket League oyuncusunun istatistiklerini öğrenin."
+    },
+    "roleColor": {
+      "description": "Discord Sunucunuzda, belirtilen rolün rengini değiştirir."
+    },
+    "roleDescription": {
+      "description": "`RoleInfo 'komutunda gösterilecek bir rol için açıklama belirleyin."
+    },
+    "roleEmoji": {
+      "description": "Belirtilen bir role bir emoji atayın. Atanan emojiler Reaction Roles ile kullanılır."
+    },
+    "roleID": {
+      "description": "Discord sunucunuzun belirli bir kullanıcısının İD'sini gösterir."
+    },
+    "roleInfo": {
+      "description": "Discord sunucunuzun belirli bir rolünün bilgilerini gösterir."
+    },
+    "roleStore": {
+      "description": "Sunucunun Rol Mağazasında satılan rolleri listeler. Rol Mağazasında listelenen roller, `buyRole 'komutunu kullanarak sunucunuzda,%currency.name_plural% ile herkes tarafından satın alınabilir. Kullanıcılar roller satın aldıklarında, sunucu sahibi kazancının% 90'ını alır."
+    },
+    "roles": {
+      "description": "Discord sunucu (ile kimlikleri) tüm rolleri listeler."
+    },
+    "roll": {
+      "description": "Belirtilen zar miktarını, değiştiricilerle birlikte alır ve sonuçları gösterir."
+    },
+    "rot13": {
+      "description": "Gönderdiğiniz mesajı gönderir, rot13 kodlanmış."
+    },
+    "rps": {
+      "description": "Klasik *taş kağıt makas* oyununu Sessiz ile oyna."
+    },
+    "russianRoulette": {
+      "description": "Son şans oyunu - Rus ruleti oynuyor! Yaşa veya öl bakalım."
+    },
+    "rust": {
+      "description": "Herhangi bir Rust oyun sunucusunun istatistiklerini alın."
+    },
+    "scheduleCommand": {
+      "description": "Bir komut olarak çalıştırılacak cron işleri zamanlama bir belirtilen zamanlama. 'cron' ifade biçimi:'' ' ikinci 0-59 veya * veya dakika 0-59 aralığı veya * veya saat 0-23 Aralık veya * veya gün ay 1-31 Aralık veya * veya ay 1-12 Aralık veya * veya aralığı 0-7 Haftanın günü (0 veya 7 dir. güneş) veya * veya Aralık '''"
+    },
+    "searchServers": {
+      "description": "İsa adına belirtilen metni içeren, Sessiz'un bağlı olduğu Discord sunucuları arar."
+    },
+    "selfDestruct": {
+      "description": "Gönderdiğiniz mesajı gönderir ancak belirli bir süre sonra otomatik silinir."
+    },
+    "sellRole": {
+      "description": "Sunucunuzdaki rolleri satarak, sunucu üyelerinin `buyRole` komutunu kullanarak onları %currency.name_plural% ile satın almasını sağlayın. Kullanıcılar roller satın aldıklarında, sunucu sahibi kazancının% 90'ını alır."
+    },
+    "sendEmbed": {
+      "description": "Belirtilen embed (JavaScript) objesi için bir embed mesajı yollar. *Grafiksel bir embed objesi yaratmak için, [buraya tıklayın](%website%/embedbuilder/).*"
+    },
+    "sendSpoiler": {
+      "description": "Bir spoiler göndermek istiyorsanız, herkes okumak istemez. Yani, bu komutu göndermek için kullanmak daha iyidir. Spoyleri okumak isteyenler daha sonra okumak için `showSpoiler` komutunu kullanabilir."
+    },
+    "serverDescription": {
+      "description": "`ServerInfo` komutunda gösterilecek olan sunucu için bir açıklama ayarlayın."
+    },
+    "serverID": {
+      "description": "Discord sunucu kimliği gösterilir."
+    },
+    "serverInfo": {
+      "description": "Discord sunucunuz bilgilerimi gösterir."
+    },
+    "serverSettings": {
+      "description": "Sunucunuzun konfigüre edilmiş ayarlar durumunu gösterir."
+    },
+    "setActivity": {
+      "description": "Sessiznun aktivitesini Belirle."
+    },
+    "setAvatar": {
+      "description": "Sessiznun avatarını Belirle."
+    },
+    "setBirthDate": {
+      "description": "Doğum tarihiniz Sessiz kullanıcı profilinde göstermek yukarıya ayarlar. Merak etme Sessiz-ecek asla göstermek senin yaş/yıl için genel."
+    },
+    "setColor": {
+      "description": "Sessiz kullanıcı profilinde kullanılan kullanıcı renginizi ayarlar."
+    },
+    "setInfo": {
+      "description": "Sessiz kullanıcı profilinde gösteren bilgiyiayarlar."
+    },
+    "setLanguage": {
+      "description": "Sessiznun bu sunucudaki dilini ayarlar."
+    },
+    "setLocation": {
+      "description": "Sessiz kullanıcı profilinde gösteren yerinizi ayarlar."
+    },
+    "setNick": {
+      "description": "Sessiz kullanıcı adı geçerli Discord sunucu ayarlar."
+    },
+    "setPrefix": {
+      "description": "Sessiznun bu sunucudaki prefixini ayarlar."
+    },
+    "setProfilePicture": {
+      "description": "Sessiz kullanıcı profilinde gösteren profil fotoğrafını ayarlar."
+    },
+    "setStatus": {
+      "description": "Sessiznun durumunu ayarlarlar."
+    },
+    "setStream": {
+      "description": "Sessiznun video akışı ayarlar."
+    },
+    "setTopic": {
+      "description": "Discord sunucunuzun belirtilen metin kanalının kanal konusunu ayarlar."
+    },
+    "setUsername": {
+      "description": "Sessiznun adını değiştirir."
+    },
+    "shardStats": {
+      "description": "Komutun kullanıldığı bölümün ayrıntılı istatistiklerini ve bilgilerini gösterir."
+    },
+    "ship": {
+      "description": "İki veya daha fazla belirtilen kullanıcı adı birleştirir."
+    },
+    "shop": {
+      "description": "Listeler / Ekler / Sunucunuzun dükkanındaki öğeleri kaldırır. Mağazada listelenen öğeler, `satın alma 'komutunu kullanarak sunucunuzda,%currency.name_plural% ile herkes tarafından satın alınabilir. Kullanıcılar öğeyi satın aldıklarında, sunucu sahibi kazancının% 90'ını alır."
+    },
+    "shorten": {
+      "description": "Google URL Shortner kullanarak belirtilen URL kısaltır."
+    },
+    "showSpoiler": {
+      "description": "`SendSpoiler 'komutu ile gönderilen spoiler mesajının kodunu çözer ve kodu çözülen mesajı DM yoluyla gönderir."
+    },
+    "shuffle": {
+      "description": "Sessiznun tüm müzik sıra anlaşmazlık sunucunuzun karıştırır."
+    },
+    "shutdown": {
+      "description": "Sessiz kapatır ve işlemi sonlandırır."
+    },
+    "skip": {
+      "description": "Şu anda yürütülen şarkıda Discord sunucu, atlar ve sıradaki diğerine taşır."
+    },
+    "slap": {
+      "description": "Başka bir kullanıcıya tokat atın."
+    },
+    "slots": {
+      "description": "Slot makinesidir silindirler spin ve sonucunu gösterir."
+    },
+    "smite": {
+      "description": "Herhangi bir Smite oyuncusunun istatistiklerini öğrenin."
+    },
+    "softBan": {
+      "description": "Belirtilen kullanıcıyı Discord sunucunuzdan kaldırır ve ileti geçmişinin 7 gününü kaldırır."
+    },
+    "sql": {
+      "description": "SQL sorgusu için Sessiz'nın veritabanı yürütür."
+    },
+    "starboard": {
+      "description": "Sunucunun bu kanaldaki yıldızlı iletilerinin günlüğünü kapatır."
+    },
+    "stats": {
+      "description": "Sessiz'nın detaylı istatistiklerini ve bilgilerini gösterir."
+    },
+    "steam": {
+      "description": "Steam Mağazasının farklı kategorisindeki oyunlara göz atın."
+    },
+    "stop": {
+      "description": "Geçerli kayıttan yürütmeyi durdurur ve müzik sıra temizler ve ses kanalı çıkar."
+    },
+    "streamerRole": {
+      "description": "Rol olarak flama rol ekler. (En az bir role) bir lonca üyesinin akışı başladığında, flama rol verilir."
+    },
+    "streamers": {
+      "description": "Ekler/kaldırır/flamalar listesini almak notified ne zaman onlar are için sunucu tarafından takip görüntüler canlı."
+    },
+    "suggest": {
+      "description": "Bir öneri kanalı ayarlı ise, öneri kanalına önerinizi yazar. Değilse geçerli kanala önerinizi yazar."
+    },
+    "suggestionChannel": {
+      "description": "Kanalı öneri kanalı olarak ekler / kaldırır. Etkinse, kullanıcı `suggest` komutunu kullanarak bir öneri gönderdiğinde, bu kanalda yayınlanır."
+    },
+    "summon": {
+      "description": "Sessiz bir ses kanalı yanınıza Discord sunucu sorar. (Eğer bir Bot sahibi tarafından belirlenen) varsayılan ses kanalı katıldı, ya da herhangi bir kanal olduğunu katıldı (müzik yüksek lisans rolde Bot sahibi olduğunuzu veya varsa vardır)."
+    },
+    "support": {
+      "description": "Sessiz Merkezi'ne davet bağlantısını gönderir."
+    },
+    "sweep": {
+      "description": "Metin kanalından rasgele bir kullanıcı gösterir."
+    },
+    "take": {
+      "description": "Belirtilen miktarda %currency.name_plural%ı belirtilen kullanıcıdan alın."
+    },
+    "tapCode": {
+      "description": "Belirli bir metin Mors kodu olarak kodlar."
+    },
+    "teamFortress2": {
+      "description": "Herhangi bir Team Fortress 2 oyun sunucusunun istatistiklerini edinin."
+    },
+    "terms": {
+      "description": "Sessiz'nın hizmet şartları okuyun."
+    },
+    "textMute": {
+      "description": "Belirtilen kullanıcıyı, belirtili yazı kanalında (belirtilen dakikalar için) veya global olarak Discord sunucunda yazılı susturur."
+    },
+    "textUnMute": {
+      "description": "Metin belirtilen kullanıcı belirtilen metin kanal anlaşmazlık sunucunuzun kapatýr."
+    },
+    "thisOrThat": {
+      "description": "Bu soruyu sorar. Sen ve arkadaşların nasıl seçim bakın!"
+    },
+    "tickle": {
+      "description": "Birine sarıl!"
+    },
+    "toggleBastion": {
+      "description": "Sunucunuzdaki Sessiz'ı etkinleştirin veya devre dışı bırakın. Sessiz'ı devre dışı bırakmak, sunucu sahibi de dahil olmak üzere herkesin onu kullanmasını engeller. Ancak kullanıcı etkileşimi gerektirmeyen herhangi bir ayarı etkinleştirdiyseniz, sancak, filtreler, otomatik atanabilir roller vb. Gibi yine de çalışacaktır."
+    },
+    "toggleLevelUps": {
+      "description": "Sunucudaki seviye artışlarını aç / kapat. Seviye yükselmeleri kapatmak, kullanıcıların deneyim puanları kazanmasını ve sohbet ederken seviye atlamasını engeller."
+    },
+    "topGames": {
+      "description": "Sunucuda en çok oynanan oyunları gösterir."
+    },
+    "topSongs": {
+      "description": "Spotify'da, en çok çalınan şarkıları sunucuda gösterir."
+    },
+    "translate": {
+      "description": "Belirtilen dil iletinize çevirir."
+    },
+    "trivia": {
+      "description": "Bir önemsiz soru sorar. Yanıtlayın ve her şey hakkında ne kadar çok bilgiye sahip olduğunuzu görün."
+    },
+    "tvShow": {
+      "description": "Bir TV programı ayrıntılarını arar."
+    },
+    "twitch": {
+      "description": "Canlı bir seğirme kanal bilgi akışı olsun."
+    },
+    "typingGame": {
+      "description": "Bir yazma hızı yarışma başlayacak. Makale belirli parça yazın ve verilen süre içinde göndermek için ilk kazanır."
+    },
+    "unBan": {
+      "description": "Belirtilen kullanıcıyı discord sununuzdan unbanlar."
+    },
+    "unDeafen": {
+      "description": "Discord sunucunuzda sunucu çapında belirli bir kullanıcı susturmasını kaldırır."
+    },
+    "unMute": {
+      "description": "Belirtilen kullanıcı Sunucu Discord sunucu çapında sesini açar."
+    },
+    "uncoverSneakyLinks": {
+      "description": "Sunucuda gönderilen iletilerdeki sinsi bağlantıların açığa çıkmasını sağlayın. Etkinleştirildiğinde, Sessiz, sunucuda gönderilen her mesajda, diğer konumlara yönlendirmeleri içeren tüm bağlantıların ayrıntılarını gösterir."
+    },
+    "unturned": {
+      "description": "Herhangi bir Unturned oyun sunucusunun istatistiklerini alın."
+    },
+    "urbanDictionary": {
+      "description": "Belirtilen sözcük kentsel bir tanımı için kentsel sözlük arar."
+    },
+    "userID": {
+      "description": "Discord sunucunuzun belirli bir kullanıcısının İD'sini gösterir."
+    },
+    "userInfo": {
+      "description": "Discord sunucunuzun belirli bir kullanıcısının bilgilerini gösterir."
+    },
+    "userLookup": {
+      "description": "Kullanıcının temel bilgilerini Discord'tan alır."
+    },
+    "viewPermissions": {
+      "description": "Sizin Sunucu/kanaldaki izinleri gösterir."
+    },
+    "volume": {
+      "description": "Sunucunuzdaki geçerli oynatımın sesini değiştirir."
+    },
+    "votingChannels": {
+      "description": "Kanalı oylama kanalı olarak ekler / kaldırır. Bir kullanıcı tarafından bu kanalda yayınlanan tüm iletiler oylamaya hazır olacak."
+    },
+    "warn": {
+      "description": "Belirtilen kullanıcıyı uyarır. Uyarı eşiği bir kullanıcıya ulaşırsa, “warnAction” komutu tarafından belirtilen bir işlem yapılır."
+    },
+    "warnAction": {
+      "description": "Sunucu uyar eylemi ayarlar."
+    },
+    "weather": {
+      "description": "Belirtilen konumun hava durumu bilgileri gösterir."
+    },
+    "wikipedia": {
+      "description": "Wikipedia için belirtilen makale arar."
+    },
+    "wouldYouRather": {
+      "description": "Durumunuzu tercih eder misiniz? Siz ve arkadaşlarınızın buna nasıl cevap verdiğini görün!"
+    },
+    "wow": {
+      "description": "Armory'den herhangi bir World of Warcraft karakterinin istatistiklerini alın."
+    },
+    "xkcd": {
+      "description": "Bir xkcd çizgi roman gösterir."
+    },
+    "xp": {
+      "description": "Belirtilen kullanıcı hesabı deneyim puanı gösterir."
+    },
+    "youtubeSearch": {
+      "description": "Bir video YouTube üzerinde belirtilen sorgu için arar ve ilk sonuç gösterir."
+    },
+    "zalgolize": {
+      "description": "Gönderdiğiniz mesajı zalgolleşmiş olarak gönderir."
+    }
+  }

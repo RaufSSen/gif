@@ -1,0 +1,18 @@
+   {
+  "date": "22 Temmuz, 2019",
+  "image": "https://media.giphy.com/media/SvLEqwNW6VqQE80yEq/giphy.gif",
+  "Yeni Eklemeler": [
+    "Artık `profilsıfırla` ile istediğiniz kişinin profilini sıfırlayabilirsiniz! (Tabi  yetkiniz varsa)",
+    "`taşşak` komudu kullanıma açılmıştır.",
+    "`öner` komutu kullanıma açılmıştır `+yardım öner` ile nasıl çalıştığını öğrenebilirsiniz."
+  ],
+  "Yakında Gelecekler(Üstünde Çalıştıklarım)": [
+    "Tüm komutlara artık `renkayarla` komudu ile ayarladığınız rengi yanına koymaya çalışıyorum."
+  ],
+  "Güncellemeler": [
+    "`google` komutu artık daha düzgün çalışıyor ama hala hataları var."
+  ],
+  "BUGLAR ÖLDÜRÜLDÜ": [
+    "Seviye sistemindeki \"NULL\" yazısının çıkması kaldırıldı."
+  ]
+}

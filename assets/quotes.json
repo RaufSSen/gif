@@ -1,0 +1,966 @@
+{
+  "1": {
+    "quote": "Geleceği tahmin etmenin en iyi yolu Geleceği şimdi oluşturmaktır.",
+    "author": "Abharam Lincon"
+  },
+  "2": {
+    "quote": "Özel yeteneğim yok. Sadece tutkuyla merak ediyorum.",
+    "author": "Albert Einstein"
+  },
+  "3": {
+    "quote": "Dünya iyi insanlarla dolu. Bir tane bulamazsan, bir tane ol.",
+    "author": "-"
+  },
+  "4": {
+    "quote": "Bu senin yeteneğin değil, irtifalarını belirleyen tutumun.",
+    "author": "Zig Ziglar"
+  },
+  "5": {
+    "quote": "Mükemmellik bir davranış değildir, bir alışkanlıktır.",
+    "author": "Aristoteles"
+  },
+  "6": {
+    "quote": "Beni kurtlara at, ben de pakete öncülük edeceğim.",
+    "author": "-"
+  },
+  "7": {
+    "quote": "Eğer elimden gelenin en iyisini yaparsam ve başarısız olursam, elimden gelenin en iyisini yaptım.",
+    "author": "Steve Jobs"
+  },
+  "8": {
+    "quote": "Kazanılan geri kalanlar dışında hiçbir dinlenmenin değeri yoktur.",
+    "author": "-"
+  },
+  "9": {
+    "quote": "Ya bir rock konseri ya da bir bale düzenleyin; ancak bir rock konseri düzenleyin ve bir bale olarak tanıtmayın.",
+    "author": "Warren Buffet"
+  },
+  "10": {
+    "quote": "Hayat her zaman iyi kartlara sahip olmak değil, bazen kötü bir eli iyi oynamaktır.",
+    "author": "Jack Londra"
+  },
+  "11": {
+    "quote": "Cesaretimi soludum ve korkumu soluyorum.",
+    "author": "Jonathan Lockwood Huie"
+  },
+  "12": {
+    "quote": "Dünya bir ormandır, ya savaşır ve hükmedin ya da saklanır ve buharlaşırsınız.",
+    "author": "-"
+  },
+  "13": {
+    "quote": "Herkes yemek istiyor, ancak çok azı avlamak istiyor.",
+    "author": "-"
+  },
+  "14": {
+    "quote": "Bağırsak yok, şeref yok. Efsane yok, hikaye yok.",
+    "author": "-"
+  },
+  "15": {
+    "quote": "Bazı insanlar kendi iç seslerini büyük bir netlikte duyuyorlar. Ve duyduklarıyla yaşıyorlar. Bu insanlar çıldırıyor ... ya da efsane oluyorlar.",
+    "author": "Jim Harrison"
+  },
+  "16": {
+    "quote": "Bazı hedefler çok değerli, başarısız bile olsa şanlı.",
+    "author": "Yüzbaşı Manoj Kumar Pandey, PVC 1/11 Gorkha Tüfekleri"
+  },
+  "17": {
+    "quote": "Bir kazada ölmeyeceğim veya herhangi bir hastalıktan ölmeyeceğim, şerefsizliğe ineceğim.",
+    "author": "Binbaşı Sudhir Kumar Walia"
+  },
+  "18": {
+    "quote": "Neredeyse ölene kadar hiç yaşamamışsınız. Bunun için savaşmış olanlar için, korumanın asla bilmeyeceği bir tada sahip.",
+    "author": "Guy de Maupassant"
+  },
+  "19": {
+    "quote": "Süper kahramanların tümü pelerin giymez.",
+    "author": "-"
+  },
+  "20": {
+    "quote": "Bizi öldürmeyen, bizi daha da güçlendirir.",
+    "author": "Friedrich Nietzsche"
+  },
+  "21": {
+    "quote": "Hayattaki en büyük zevk, insanların yapamayacağınızı söylediklerini yapmaktır.",
+    "author": "Walter Bagehot"
+  },
+  "22": {
+    "quote": "Bir numara olmak garip olmak zorunda.",
+    "author": "Dr. Seuss"
+  },
+  "23": {
+    "quote": "Soru 'Bana kim izin verecek?' değil, 'Beni kim durduracak?'",
+    "author": "Ayn Rand"
+  },
+  "24": {
+    "quote": "Herkes bir elmas olmak istiyor, ama çok az kişi kesilmeye razı.",
+    "author": "Eric Thomas"
+  },
+  "25": {
+    "quote": "Normdan sapma olmadan ilerleme mümkün değildir.",
+    "author": "Frank Zappa"
+  },
+  "26": {
+    "quote": "Dinle, gülümse, kabul et ve sonra ne yapacaksan yap.",
+    "author": "Robert Downey, Jr."
+  },
+  "27": {
+    "quote": "Güç kazanmaktan gelmez. Mücadeleleriniz güçlü yanlarınızı geliştirir. Zorluklardan geçip teslim olmamaya karar verdiğinizde, bu güçtür.",
+    "author": "Arnold Schwarzenegger"
+  },
+  "28": {
+    "quote": "Düşmanların var mı? Güzel. Bu hayatında bir şey için ayağa kalktığın anlamına geliyor.",
+    "author": "Sir Winston Churchill"
+  },
+  "29": {
+    "quote": "Bir şeyi bitirmek ve imkansızı ummak için kendinizi hapsetmekten başka bir işe başlamak daha iyidir.",
+    "author": "Marione Ashley"
+  },
+  "30": {
+    "quote": "Harika bir şampiyon olmak için en iyisi olduğuna inanmalısın. Olmazsan, öyle davran.",
+    "author": "Muhammed Ali"
+  },
+  "31": {
+    "quote": "Ortalamaya alerjim var ve mükemmellik için bir bağımlılık var.",
+    "author": "-"
+  },
+  "32": {
+    "quote": "Bir adamın çöpünün başka bir adamın hazinesi olduğunu söylüyorlar. Hayır, bir erkek zeki, biri daha iyisini bilmiyor",
+    "author": "Joey Badass"
+  },
+  "33": {
+    "quote": "Şeytan fısıldıyor,\" Fırtınaya dayanamazsınız. \" Savaşçı “Ben Fırtınayım” diyor.",
+    "author": "-"
+  },
+  "34": {
+    "quote": "İnsanlar\" Asla senin gibi görünmek istemiyoruz \"derken, Arnold şöyle dedi: 'Endişelenme, asla yapmazsın'.",
+    "author": "-"
+  },
+  "35": {
+    "quote": "Eğer her zaman yaptığınız, fiziksel veya başka herhangi bir şeye sınır koyarsanız, işinize ve yaşamınıza yayılır. Sınır yoktur. Sadece platolar vardır ve orada kalmamalısınız, onların ötesine geç. ",
+    "author": "Bruce Lee"
+  },
+  "36": {
+    "quote": "Zaman her şeyi değiştirir. İnsanların söylediği şey bu. Doğru değil. Bir şeyleri yapmak bir şeyleri değiştirmek. Bir şeyleri yapmamak onları olduğu gibi bırakır.",
+    "author": "Dr. Gregory Evi"
+  },
+  "37": {
+    "quote": "Yeri doldurulamaz olanın her zaman farklı olması gerekir.",
+    "author": "Coco Chanel"
+  },
+  "38": {
+    "quote": "Bilgi size güç ve karakter saygı verecektir.",
+    "author": "Bruce Lee"
+  },
+  "39": {
+    "quote": "Hayatı gerçekten seviyorsan, zamanını boşa harcamayın; çünkü zaman hayatın yarattığı şeydir.",
+    "author": "Bruce Lee"
+  },
+  "40": {
+    "quote": "Değişimin sırrı, eski enerjinizle değil, yeninizi inşa etmekle tüm enerjinize odaklanmaktır.",
+    "author": "Socrates"
+  },
+  "41": {
+    "quote": "Korkmak sorun değil. Korkmak, gerçekten, çok cesur bir şeyler yapmak üzere olduğunuz anlamına gelir.",
+    "author": "Mandy Hale"
+  },
+  "42": {
+    "quote": "Gösterdiğinizden daha fazlasını yapın, bildiğinizden daha az konuşun.",
+    "author": "William Shakespeare"
+  },
+  "43": {
+    "quote": "Büyük bir yaşam değişikliği yapmak oldukça korkutucu. Ama neyin daha korkutucu olduğunu biliyor musun? Pişman.",
+    "author": "Zig Ziglar"
+  },
+  "44": {
+    "quote": "Sadece geçmiş istediğin gibi olmadığından, geleceğin hayal ettiğinden daha iyi olamayacağı anlamına gelmez.",
+    "author": "Ziad K. Abdelnour"
+  },
+  "45": {
+    "quote": "Beni birçok yönden gölgede bırakıyor olabilirsin. Ama bir koşu bandına binersek, iki şey vardır: önce inersin ya da öleceğim. Bu kadar basit, değil mi?",
+    "author": "Will Smith"
+  },
+  "46": {
+    "quote": "İnsanların değişime direnmesinin bir nedeni, kazanmaları gerekenler yerine neleri bırakmaları gerektiğine odaklanmalarıdır.",
+    "author": "Rick Godwin"
+  },
+  "47": {
+    "quote": "Fırtınadan çıktığınızda içeri giren aynı kişi olmayacaksınız. Bu fırtınanın konusu bu.",
+    "author": "Haruki Murakami"
+  },
+  "48": {
+    "quote": "Bir gün uyanacaksınız ve her zaman istediğiniz şeyleri yapmak için daha fazla zamanınız olmayacak. ŞİMDİ YAPIN.",
+    "author": "Paulo Coelho"
+  },
+  "49": {
+    "quote": "Yalnız vakit geçirmenin çok sağlıklı olduğunu düşünüyorum. Yalnız kalmayı ve başka biri tarafından tanımlanmamasını bilmelisin.",
+    "author": "Oscar Wiloe"
+  },
+  "50": {
+    "quote": "Ölüme ve karanlığa baktığımızda korktuğumuz bilinmez, başka bir şey değil.",
+    "author": "Albus Dumbledore, Harry Potter ve Melez Prens"
+  },
+  "51": {
+    "quote": "Asla endişelenmeme sebebim, ölümün başıma gelebilecek en kötü şey olduğunu fark ettim; gerisi sadece ayrıntıdır, yani onları terlemenin bir anlamı yoktur.",
+    "author": "-"
+  },
+  "52": {
+    "quote": "Engellerinize ayağa kalkın ve onlar hakkında bir şeyler yapın. Sahip olduklarını düşündüklerinizin yarısına sahip olmadığını göreceksiniz.",
+    "author": "Norman Vincent Peale"
+  },
+  "53": {
+    "quote": "Herhangi bir anda, söyleme gücüne sahipsin: Hikaye böyle bitmeyecek.",
+    "author": "Christine Mason Miller"
+  },
+  "54": {
+    "quote": "Ay için vur. Kaçırsan bile, yıldızlar arasında inersin.",
+    "author": "Norman Vincent Peale"
+  },
+  "55": {
+    "quote": "Sadece o yaşamı değiştiren bir karar vermemiz gerektiğinde hayatımızdaki anları tanımlamanın geldiği",
+    "author": "-"
+  },
+  "56": {
+    "quote": "Eğer plan işe yaramazsa, planı değiştirin. Ama asla hedefi değil.",
+    "author": "-"
+  },
+  "57": {
+    "quote": "En karanlık gece bile bitecek ve güneş doğacak.",
+    "author": "Victor Hugo"
+  },
+  "58": {
+    "quote": "Fikirler yaşamı değiştirebilir. Bazen kapıyı açmak için gereken tek şey sadece bir daha iyi fikirdir.",
+    "author": "Jim Rohn"
+  },
+  "59": {
+    "quote": "Hayat kaç nefes alır, ama nefesini kesen anlardır.",
+    "author": "Will Smith"
+  },
+  "60": {
+    "quote": "İstediğin şey için savaşmazsan, kaybettiğin şey için ağlama.",
+    "author": "Will Smith"
+  },
+  "61": {
+    "quote": "Ve mükemmel olduğum yerde saçma, hasta, iş ahlakı. Bilirsin, diğer adam uyurken? Çalışıyorum.",
+    "author": "Will Smith"
+  },
+  "62": {
+    "quote": "Gelecek kesinlikle belirsizdi ve pek çok engel vardı, katlanmış ve dönüyor, ama ilerlemeye devam ettiğim sürece, bir ayağın önünde, korku ve utanç sesleri, Yeterince iyi olmadığımı inanmamı isteyenler gelen mesajlar hareketsiz kalacaktır. ",
+    "author": "Chris Gardner"
+  },
+  "63": {
+    "quote": "Diğerleri kimlik bilgilerinizi, evraklarınızı, derecelerinizi sorgulayabilir. Diğerleri, değerinizi azaltmak için her türlü yolu arayabilir. Ancak içinde ne varsa, sizden kimsenin kararmayacağı veya kararmayacağını.",
+    "author": "Chris Gardner"
+  },
+  "64": {
+    "quote": "Başarının sırrı: Çok fazla şey yapmayı sevdiğin bir şey bul, güneşin tekrar baştan kalkmasını bekleyemezsin.",
+    "author": "Chris Gardner"
+  },
+  "65": {
+    "quote": "Sevdiğiniz bir şey bulun. Sizi o kadar heyecanlandıran bir şey, sabahları yataktan kalkmayı bekleyemezsiniz. Parayı unutun. Mutlu olun.",
+    "author": "Chris Gardner"
+  },
+  "66": {
+    "quote": "Birinin sana söylemesine izin verme, bir şey yapamazsın. Bir hayalin var, onu korumalısın. İnsanlar kendilerinin bir şey yapamaz, sana yapamayacağını söylemek istiyorlar. Bir şey istiyorsan, git onu al. Dönemi. ",
+    "author": "Chris Gardner"
+  },
+  "67": {
+    "quote": "Hayat sınırda yaşıyor.",
+    "author": "Will Smith"
+  },
+  "68": {
+    "quote": "Yaratmak istediğim şeyi yaratabileceğime inanıyorum.",
+    "author": "Will Smith"
+  },
+  "69": {
+    "quote": "İyi yapmak istiyorum. Dünyanın daha iyi olmasını istiyorum çünkü buradaydım. Diğer yaşamları daha iyi hale getirerek hayatınız daha iyi hale gelecektir.",
+    "author": "Will Smith"
+  },
+  "70": {
+    "quote": "Sadece kendime güvenmenin iyi olacağını düşünüyorum. Eğer takımımda değilseniz, neden başkaları olsun ki?",
+    "author": "Robert Downey, Jr."
+  },
+  "71": {
+    "quote": "Güneş parlamadığında ne yapacağınızı bilmeniz gerekir.",
+    "author": "Robert Downey, Jr."
+  },
+  "72": {
+    "quote": "İnsanlar asla değişmez çünkü tehdit altındalar ya da baskı altındalar. Asla değişmezler çünkü yaşamlarını yaşamaya değer bir hayata doğru ilerlemeye başlayacak kadar değerli görünen bir şey görürler.",
+    "author": "Robert Downey, Jr."
+  },
+  "73": {
+    "quote": "Dünyada görmek istediğiniz değişiklik siz olmalısınız.",
+    "author": "Mahatma Gandhi"
+  },
+  "74": {
+    "quote": "Önce seni görmezden geliyorlar, sonra sana gülüyorlar, sonra seninle savaşıyorlar, sonra sen kazandın.",
+    "author": "Mahatma Gandhi"
+  },
+  "75": {
+    "quote": "Güç, fiziksel kapasiteden gelmez. İşin yenilmez bir irade ile gelir.",
+    "author": "Mahatma Gandhi"
+  },
+  "76": {
+    "quote": "Aynı yılı 75 kez yaşayın ve yıl olarak adlandırmayın.",
+    "author": "Robin Sharma"
+  },
+  "77": {
+    "quote": "Sadece bir kez yaşıyorsun, ama doğru yaparsan, bir kere yeter.",
+    "author": "Mae Batı"
+  },
+  "78": {
+    "quote": "Yaşamdaki en büyük ihtişam asla düşmemekte değil, her düşüştümüzde yükselmekte yatar.",
+    "author": "Nelson Mandela"
+  },
+  "79": {
+    "quote": "Herkesi sev, çok güven, hiç kimseye yanlış yapma.",
+    "author": "William Shakespeare"
+  },
+  "80": {
+    "quote": "Kafanda beynin var. Ayakkabının içinde ayakların var. Kendini istediğin yöne yönlendirebilirsin.",
+    "author": "Dr. Seuss"
+  },
+  "81": {
+    "quote": "İmkansız olan tek yolculuk asla başlamadığın yoldur.",
+    "author": "Anthony Robbins"
+  },
+  "82": {
+    "quote": "Asla vurma korkusunun sizi oyun oynamaktan alıkoymasına izin vermeyin.",
+    "author": "Bebeğim Ruth"
+  },
+  "83": {
+    "quote": "Beş yaşındayken annem bana her zaman mutluluğun yaşamın anahtarı olduğunu söylerdi. Okula gittiğimde, büyüdüğümde ne olmak istediğimi sordular.\" Mutlu \"yazdım. Bana ödevi anlamadığımı söylediler ve onlara hayatı anlamadıklarını söyledim. ",
+    "author": "John Lennon"
+  },
+  "84": {
+    "quote": "Büyük bir hak yapmak için biraz yanlış yapın.",
+    "author": "William Shakespeare"
+  },
+  "85": {
+    "quote": "Bir aptal kendini akıllı olduğunu düşünüyor, ancak bilge bir adam kendini aptal olarak tanıyor.",
+    "author": "William Shakespeare"
+  },
+  "86": {
+    "quote": "Güvenlik istemeyin, macera isteyin. Köşede 100 yıldan daha güvenli bir şekilde 30 yıl macera dolu yaşamak daha iyi.",
+    "author": "John Rohn"
+  },
+  "87": {
+    "quote": "Ya okumaya değer bir şeyler yazın ya da yazmaya değer bir şeyler yapın.",
+    "author": "Benjamin Franklin"
+  },
+  "88": {
+    "quote": "Hepimiz ölürüz. Amaç sonsuza dek yaşamak değildir, amaç olacak bir şey yaratmaktır.",
+    "author": "Chuck Palahniuk"
+  },
+  "89": {
+    "quote": "Önemli olan soru sormaktan vazgeçmek değildir. Merak etmenin varlığın kendi sebebi vardır.",
+    "author": "Albert Einstein"
+  },
+  "90": {
+    "quote": "Hiç hata yapmayan hiç kimse yeni bir şey denememiştir.",
+    "author": "Albert Einstein"
+  },
+  "91": {
+    "quote": "Başarılı bir adam olmamaya çalışın, daha çok değerli bir adam olmaya çalışın.",
+    "author": "Albert Einstein"
+  },
+  "92": {
+    "quote": "İki şey sınırsız: evren ve insan salaklığı ve evren hakkında emin değilim.",
+    "author": "Albert Einstein"
+  },
+  "93": {
+    "quote": "Ben bir sanatçının hayal gücüm üzerine özgürce çizim yapması yeterli. Hayal gücü bilgiden daha önemlidir. Bilgi sınırlıdır. Hayal gücü dünyayı çevreler.",
+    "author": "Albert Einstein"
+  },
+  "94": {
+    "quote": "Dinsiz bilim topal, bilimsiz din kördür.",
+    "author": "Albert Einstein"
+  },
+  "95": {
+    "quote": "Sahip olduğumuz önemli problemler, onları yarattığımız düşünce düzeyinde çözülemez.",
+    "author": "Albert Einstein"
+  },
+  "96": {
+    "quote": "Her şey mümkün olduğunca basit yapılmalı, ancak basitleştirilmemelidir.",
+    "author": "Albert Einstein"
+  },
+  "97": {
+    "quote": "Hayatınızı yaşamanın sadece iki yolu var. Biri hiçbir şey bir mucize gibi değil, diğeri her şey bir mucize gibi.",
+    "author": "Albert Einstein"
+  },
+  "98": {
+    "quote": "Eğer altı yaşındaki bir çocuğa açıklayamazsanız, kendiniz anlamıyorsunuz.",
+    "author": "Albert Einstein"
+  },
+  "99": {
+    "quote": "Çocuğunuzun zeki olmasını istiyorsanız, onlara peri masallarını okuyun. Daha zeki olmalarını istiyorsanız, daha fazla masal okuyun.",
+    "author": "Albert Einstein"
+  },
+  "100": {
+    "quote": "Mantık sizi A'dan Z'ye, hayal gücü sizi her yere götürecek.",
+    "author": "Albert Einstein"
+  },
+  "101": {
+    "quote": "Hayat bisiklet sürmek gibidir. Dengenizi korumak için hareket etmeye devam etmeniz gerekir.",
+    "author": "Albert Einstein"
+  },
+  "102": {
+    "quote": "Ben herkesle aynı şekilde konuşuyorum, o çöpçü ya da üniversite başkanı olsun.",
+    "author": "Albert Einstein"
+  },
+  "103": {
+    "quote": "Güzel bir kıza hürmettiğinizde, bir saat bir saniye gibi görünüyor. Kırmızı-sıcak bir kertenkele oturduğunuzda bir saniye bir saat gibi görünüyor. Bu görelilik.",
+    "author": "Albert Einstein"
+  },
+  "104": {
+    "quote": "Asla arayabileceğiniz bir şeyi ezberlemeyin.",
+    "author": "Albert Einstein"
+  },
+  "105": {
+    "quote": "Ne yaptığımızı bilseydik araştırma denemezdi, değil mi?",
+    "author": "Albert Einstein"
+  },
+  "106": {
+    "quote": "Herhangi bir aptal bilebilir. Önemli olan anlamaktır.",
+    "author": "Albert Einstein"
+  },
+  "107": {
+    "quote": "Dünyayı yarattığımız gibi düşünme sürecimizdir. Düşüncemizi değiştirmeden değiştirilemez",
+    "author": "Albert Einstein"
+  },
+  "108": {
+    "quote": "Denemeyi bırakana kadar asla başarısız olamazsın.",
+    "author": "Albert Einstein"
+  },
+  "109": {
+    "quote": "Büyük ruhlar her zaman vasat beyinlerden şiddetli muhalefetle karşı karşıya kalmıştır.",
+    "author": "Albert Einstein"
+  },
+  "110": {
+    "quote": "Çok akıllı olduğum için değil. Ancak soruları çok daha uzun süre sürdürüyorum.",
+    "author": "Albert Einstein"
+  },
+  "111": {
+    "quote": "İstihbaratın ölçüsü değişim yeteneğidir.",
+    "author": "Albert Einstein"
+  },
+  "112": {
+    "quote": "Yaratıcılık eğlenmek zekadır.",
+    "author": "Albert Einstein"
+  },
+  "113": {
+    "quote": "Dünya, kötü niyetli insanlar için değil, onun hakkında hiçbir şey yapmayan insanlar nedeniyle yaşanacak tehlikeli bir yer.",
+    "author": "Albert Einstein"
+  },
+  "114": {
+    "quote": "Eğer A hayattaki bir başarı ise, A eşittir X artı Y artı Z. X işdir; Y oyundur ve Z ağzınızı kapalı tutar.",
+    "author": "Albert Einstein"
+  },
+  "115": {
+    "quote": "Zorluğun ortasında fırsat yatar.",
+    "author": "Albert Einstein"
+  },
+  "116": {
+    "quote": "Beni bazen puslu yapan bir soru: Ben ya da diğerleri deli mi?",
+    "author": "Albert Einstein"
+  },
+  "117": {
+    "quote": "Gerçekler teoriye uymuyorsa, gerçekleri değiştirin.",
+    "author": "Albert Einstein"
+  },
+  "118": {
+    "quote": "Kalabalığı takip eden kadın genellikle kalabalığın ötesine geçmez. Yalnız yürüyen kadın, daha önce kimsenin olmadığı yerlerde kendini bulabilir.",
+    "author": "Albert Einstein"
+  },
+  "119": {
+    "quote": "Olmak istediğim şeyden vazgeçmeye istekli olmalıyım.",
+    "author": "Albert Einstein"
+  },
+  "120": {
+    "quote": "Otoriteye kör inanç, gerçeğin en büyük düşmanıdır.",
+    "author": "Albert Einstein"
+  },
+  "121": {
+    "quote": "Genius% 1 yetenek ve% 99 sıkı çalışmadır.",
+    "author": "Albert Einstein"
+  },
+  "122": {
+    "quote": "Limitlerimizi kabul ettiğimizde, onların ötesine geçeriz.",
+    "author": "Albert Einstein"
+  },
+  "123": {
+    "quote": "Kıyıdaki bir gemi her zaman güvenlidir. Ancak bunun için inşa edilmemiştir.",
+    "author": "Albert Einstein"
+  },
+  "124": {
+    "quote": "Sadece başkaları için yaşayan bir hayat, değerli bir yaşamdır.",
+    "author": "Albert Einstein"
+  },
+  "125": {
+    "quote": "Birkaç kişi kendi gözleriyle görüp kendi kalpleriyle hissedenler.",
+    "author": "Albert Einstein"
+  },
+  "126": {
+    "quote": "Sadece saçma girişiminde bulunanlar imkansızı başarabilir.",
+    "author": "Albert Einstein"
+  },
+  "127": {
+    "quote": "Ben gençlikte acı verici, olgunluk yıllarında lezzetli olan yalnızlık içinde yaşıyorum.",
+    "author": "Albert Einstein"
+  },
+  "128": {
+    "quote": "Tutumun zayıflığı karakterin zayıflığı haline gelir.",
+    "author": "Albert Einstein"
+  },
+  "129": {
+    "quote": "Gerçek bir dahi, hiçbir şey bilmediğini itiraf eder.",
+    "author": "Albert Einstein"
+  },
+  "130": {
+    "quote": "Bir sorunu çözmek için bir saatim olsaydı, sorunu düşünmeye 55 dakika ve çözümleri düşünmeye 5 dakika harcardım.",
+    "author": "Albert Einstein"
+  },
+  "131": {
+    "quote": "Yaratılışının nesnelerini ödüllendiren ve cezalandıran, kendi amaçlarımıza göre modellenen bir Tanrı düşünemiyorum - kısacası, bir insanın kırılganlığının bir yansıması olan bir Tanrı. Bireysel vücudunun ölümünden kurtulur, ancak zayıf ruhlar korku ya da gülünç bencilliklerle böyle düşünceleri barındırır. ",
+    "author": "Albert Einstein"
+  },
+  "132": {
+    "quote": "Hayat gelecek için bir hazırlıktır ve gelecek için en iyi hazırlık hiç yokmuş gibi yaşamaktır.",
+    "author": "Albert Einstein"
+  },
+  "133": {
+    "quote": "Yaşamın trajedisi, bir insanın yaşarken öldüğü şeydir.",
+    "author": "Albert Einstein"
+  },
+  "134": {
+    "quote": "Tanrı'nın düşüncelerini bilmek istiyorum - gerisi sadece detaylardır.",
+    "author": "Albert Einstein"
+  },
+  "135": {
+    "quote": "Bilgi bilgi değildir.",
+    "author": "Albert Einstein"
+  },
+  "136": {
+    "quote": "Bir erkek ne olduğunu, ne olması gerektiğini düşünmemelidir.",
+    "author": "Albert Einstein"
+  },
+  "137": {
+    "quote": "Öğrenci doldurmanız gereken bir kap değil, aydınlatmanız gereken bir meşaledir.",
+    "author": "Albert Einstein"
+  },
+  "138": {
+    "quote": "Oyunun kurallarını öğrenmelisin. Ve sonra herkesten daha iyi oynamalısın.",
+    "author": "Albert Einstein"
+  },
+  "139": {
+    "quote": "Ne kadar çok şey öğrenirsem o kadar çok şey bilmediğimi de o kadar çok anlarım.",
+    "author": "Albert Einstein"
+  },
+  "140": {
+    "quote": "Mükemmellik olağan olmayan bir şekilde ortak bir şey yapıyor.",
+    "author": "Albert Einstein"
+  },
+  "141": {
+    "quote": "İstihbarat bilgi saklama yeteneği değil, onu nerede bulacağını bilmedir.",
+    "author": "Albert Einstein"
+  },
+  "142": {
+    "quote": "Ne yapılmayacağını öğrenirken başarısız olmak kötü değildir.",
+    "author": "Albert Einstein"
+  },
+  "143": {
+    "quote": "Bir örnek belirlemek, diğerlerini etkilemenin ana aracı değil, tek aracıdır.",
+    "author": "Albert Einstein"
+  },
+  "144": {
+    "quote": "Mezarlıktaki en zengin adam olmak benim için önemli değil. Geceleri yatmak harika bir şey yaptığımızı söylüyor. Benim için önemli olan bu.",
+    "author": "Steve Jobs"
+  },
+  "145": {
+    "quote": "Vaktiniz sınırlı, bu yüzden başkalarının hayatını yaşayarak israf etmeyin. Dogma tarafından tuzağa düşmeyin - ki bu, başkalarının düşüncelerinin sonucuyla yaşıyor - Başkalarının düşüncelerinin sesini duymasına izin vermeyin kendi iç sesinizi boğdu. Ve en önemlisi, kalbinizi ve sezginizi takip etme cesaretine sahipler. Bir şekilde gerçekten ne olmak istediğinizi zaten biliyorlar. Her şey ikincil. ",
+    "author": "Steve Jobs"
+  },
+  "146": {
+    "quote": "Bazen inovasyon yaparken hata yaparsınız. Onları hızlı bir şekilde kabul etmek ve diğer inovasyonlarınızı geliştirmeye devam etmek en iyisidir.",
+    "author": "Steve Jobs"
+  },
+  "147": {
+    "quote": "Bir fikirle, bir problemle ya da düzeltmek istediğin bir yanlışla yanıyor olmalısın. Baştan beri yeterince tutkulu değilsen, asla yapışmazsın.",
+    "author": "Steve Jobs"
+  },
+  "148": {
+    "quote": "Öleceğini hatırlamak, kaybedecek bir şeyin olduğunu düşünme tuzağından kaçınmak için bildiğim en iyi yol. Zaten çıplaksın. Kalbini takip etmemek için hiçbir sebep yok.",
+    "author": "Steve Jobs"
+  },
+  "149": {
+    "quote": "Benim işim insanlar üzerinde kolay olmak değil. Benim görevim sahip olduğumuz bu harika insanları almak ve onları daha da zorlamak.",
+    "author": "Steve Jobs"
+  },
+  "150": {
+    "quote": "Basit, karmaşıktan daha zor olabilir: Düşüncenizi basit hale getirmek için temiz olması için çok çalışmanız gerekir. Ama sonunda buna değer çünkü oraya vardığınızda dağları taşıyabilirsiniz.",
+    "author": "Steve Jobs"
+  },
+  "151": {
+    "quote": "Sayılan her şey sayılmaz ve sayılabilecek her şey sayılmaz.",
+    "author": "Albert Einstein"
+  },
+  "152": {
+    "quote": "Aç kalın. Aptalca kal.",
+    "author": "Steve Jobs"
+  },
+  "153": {
+    "quote": "İleriye dönük noktaları birleştiremezsiniz. Yalnızca geriye dönük bakmalarını birleştirebilirsiniz. Bir şeylere güvenmek zorundasınız - bağırsaklarınıza, kaderinize, hayatınıza, karma, her neyse - noktaların aşağıya bağlanacağına inanmak Yol sizi yıpranmış yoldan çıkarsa bile kalbinizi takip etme güvenini verecektir. Bu yaklaşım beni asla hayal kırıklığına uğratmadı ve hayatımdaki tüm farkı yarattı. ",
+    "author": "Steve Jobs"
+  },
+  "154": {
+    "quote": "Detaylar önemli, doğru olması için beklemeye değer.",
+    "author": "Steve Jobs"
+  },
+  "155": {
+    "quote": "Bazen hayat kafanıza bir tuğlayla vurabilir. İnancını yitirmeyin. Beni devam ettiren tek şeyin yaptığım şeyi sevdiğime ikna oldum.",
+    "author": "Steve Jobs"
+  },
+  "156": {
+    "quote": "Ne yapmamaya karar vermek, ne yapılacağına karar vermek kadar önemlidir.",
+    "author": "Steve Jobs"
+  },
+  "157": {
+    "quote": "Büyüdüğünüzde, dünyaya bunun böyle olduğunu ve işinizin sadece dünyadaki hayatınızı yaşamak olduğunu söyleme eğilimindesiniz. Duvarlara çok fazla çarpmamaya çalışın. Güzel bir aile kurmaya çalışın hayat, eğlen, biraz para biriktir, bu çok sınırlı bir hayat ... Basit bir gerçeği keşfettikten sonra hayat çok daha geniş olabilir ve bu da - etrafınızdaki hayat olarak adlandırdığınız her şey, daha akıllı olmayan insanlardan oluştu Ve onu değiştirebilirsin, etkileyebilirsin, başkalarının kullanabileceği kendi eşyalarını yapabilirsin .. Hayatını dürtebileceğini ve aslında bir şeyi yapacağını, anlarsın, anlarsın, bir şeyler patlar. diğer taraftan dışarıda, onu değiştirebilirsin, kalıplayabilirsin, belki de en önemli şey ... Hayatın var olduğu ve onun içinde yaşayacağın, kucaklamak yerine, değiştireceğin bu yanlış düşünceyi ortadan kaldırmak. , geliştirin, üzerine işaretleyin.Bunun çok önemli olduğunu düşünüyorum ve ancak bunu bir kez öğrenirseniz öğrenirsiniz. Öyle ki, hayatı değiştirmek ve daha iyi hale getirmek isteyeceksiniz, çünkü çok karışık bir şekilde. Bunu öğrendiğinde, bir daha asla eskisi gibi olmayacaksın. ",
+    "author": "Steve Jobs"
+  },
+  "158": {
+    "quote": "Farklı Düşün",
+    "author": "Steve Jobs"
+  },
+  "159": {
+    "quote": "İşiniz hayatınızın büyük bir bölümünü dolduracak ve gerçekten tatmin olmanın tek yolu harika iş olduğuna inandığınız şeyi yapmak. Ve iyi iş yapmanın tek yolu yaptığınız şeyi sevmek. Eğer henüz bulamadıysanız, aramaya devam edin Sakın dert etme Kalbin tüm meselelerinde olduğu gibi, ne zaman bulduğunuzu da bilirsiniz. Ve, herhangi bir büyük ilişki gibi, sadece daha iyi ve daha iyi olur yıllar geçiyor. ",
+    "author": "Steve Jobs"
+  },
+  "160": {
+    "quote": "İnsanlar odaklanmanın odaklanman gereken şeye evet demek olduğunu düşünüyorlar. Ama bu demek istediği şey değil. Diğer yüzlerce iyi fikre hayır demek demek oluyor. Dikkatlice seçmek zorundasın. Yapmadığım şeyler kadar gurur duyuyorum, yaptığım şeyler kadar gurur duyuyorum. İnovasyon 1.000 kişiye hayır diyor. ",
+    "author": "Steve Jobs"
+  },
+  "161": {
+    "quote": "Apple'dan kovulmak başıma gelebilecek en iyi şeydi. Başarılı olmanın ciddiyeti, bir acemi olmanın hafifliği ile yer değiştirdi. Beni en yaratıcı dönemlerden birine girmeme izin verdi. hayat. ",
+    "author": "Steve Jobs"
+  },
+  "162": {
+    "quote": "Yolculuk ödül.",
+    "author": "Steve Jobs"
+  },
+  "163": {
+    "quote": "İşlerin dünyayı önemli olacak şekilde değiştirmesi gerekmez.",
+    "author": "Steve Jobs"
+  },
+  "164": {
+    "quote": "Tasarım sadece göründüğü ve hissettirdiği şey değildir. Tasarım, nasıl çalıştığıdır.",
+    "author": "Steve Jobs"
+  },
+  "165": {
+    "quote": "İş için benim modelim The Beatles. Birbirlerini olumsuz yönde kontrol altında tutan dört kişiydiler. Birbirlerini dengelediler ve toplam, parçaların toplamından daha büyüktü. iş dünyasında harika şeyler asla bir kişi tarafından yapılmaz, bir takım insan tarafından yapılır. ",
+    "author": "Steve Jobs"
+  },
+  "166": {
+    "quote": "Güzel bir çekmece yapan bir marangoz olduğunuzda, duvara dönük olmasına ve hiç kimse görmeyecek olsa bile, arkada bir kontrplak parçası kullanmayacaksınız. orada, bu yüzden arka tarafta güzel bir odun parçası kullanacaksınız. Geceleri iyi uyumak için estetik, kalite, her yere taşınmak zorunda. ",
+    "author": "Steve Jobs"
+  },
+  "167": {
+    "quote": "Yaratıcılık sadece bir şeyleri birbirine bağlar. Yaratıcı insanlara bir şeyi nasıl yaptıklarını sorduğunuzda, biraz suçlu hissediyorlar çünkü gerçekten yapmadılar, bir şey gördüler. Bir süre sonra onlar için belirgin görünüyordu." ,
+    "author": "Steve Jobs"
+  },
+  "168": {
+    "quote": "Gözünüzü kârdan korursanız, ürünü gözden kaçırmaya başlayacaksınız. Ama gerçekten harika ürünler yapmaya odaklanırsanız, o zaman karlar gelir.",
+    "author": "Steve Jobs"
+  },
+  "169": {
+    "quote": "Saf bir şekilde Stanford kadar pahalı olan bir kolej seçtim ve işçi sınıfı ebeveynlerimin tasarrufları kolej eğitimime harcanıyordu. Altı ay sonra buradaki değeri göremedim. Hayatımla ne yapmak istediğim hakkında hiçbir fikrim yoktu ve kolejin bunu çözmeme nasıl yardım edeceği hakkında hiçbir fikrim yoktu .. Ve burada ailemin tüm hayatını biriktirdiği bütün parayı harcıyordum. her şeyin işe yarayacağına güvenmek Tamam, o zamanlar oldukça korkutucu idi, ama geriye bakmak, şimdiye kadar verdiğim en iyi kararlardan biriydi. Bıraktığım an, beni ilgilendirmeyen zorunlu dersleri almaktan vazgeçebilirdim. ve ilginç görünenleri bırakmaya başlayın. ",
+    "author": "Steve Jobs"
+  },
+  "170": {
+    "quote": "Endüstrimizdeki pek çok insan çok farklı deneyimler yaşamamışlardı. Bu yüzden bağlanmak için yeterli noktaya sahip değiller ve probleme dair geniş bir perspektife sahip olmadan çok lineer çözümler üretiyorlar. İnsan deneyiminin anlaşılması, sahip olacağımız tasarımın iyi olması. ",
+    "author": "Steve Jobs"
+  },
+  "171": {
+    "quote": "Biz evrene bir kafa koymak için buradayız. Aksi halde neden burada başka biri olun?",
+    "author": "Steve Jobs"
+  },
+  "172": {
+    "quote": "Dün olanlar hakkında endişelenmek yerine yarın buluşalım.",
+    "author": "Steve Jobs"
+  },
+  "173": {
+    "quote": "Hayattaki en sevdiğim şeyler hiç para kazanmıyor. Hepimizin sahip olduğu en değerli kaynağın zaman olduğu çok açık.",
+    "author": "Steve Jobs"
+  },
+  "174": {
+    "quote": "Yapmak istediğim şey bu. Elimden gelenin en iyisini yapmaya çalışırsam, elimden gelenin en iyisini yaptım.",
+    "author": "Steve Jobs"
+  },
+  "175": {
+    "quote": "Ürünleri odak gruplarına göre tasarlamak çok zor. Çoğu zaman, insanlar size gösterene kadar ne istediklerini bilmiyor.",
+    "author": "Steve Jobs"
+  },
+  "176": {
+    "quote": "Eğer harika insanları işe almak ve onların sizin için çalışmaya devam etmesini sağlamak istiyorsanız, hiyerarşi değil fikirlerle yönetilmelisiniz. En iyi fikirlerin kazanması gerekir, aksi halde iyi insanlar kalmaz.",
+    "author": "Steve Jobs"
+  },
+  "177": {
+    "quote": "İnovasyon, lider ile takipçisi arasında ayrım yapar.",
+    "author": "Steve Jobs"
+  },
+  "178": {
+    "quote": "Kalitenin kıstasları olun. Bazı insanlar mükemmelliğin beklendiği bir ortama alışkın değildir.",
+    "author": "Steve Jobs"
+  },
+  "179": {
+    "quote": "Başarılı girişimcileri başarılı olmayanlardan ayıran şeylerin yaklaşık yarısının saf sebat olduğuna ikna oldum.",
+    "author": "Steve Jobs"
+  },
+  "180": {
+    "quote": "Yarışmaya bakıp daha iyisini yapacağınızı söyleyemezsiniz. Yarışmaya bakmak ve bunu farklı şekilde yapacağınızı söylemek zorundasınız.",
+    "author": "Steve Jobs"
+  },
+  "181": {
+    "quote": "Kim olduğunu hatırlamanın bir yolu, kahramanlarının kim olduğunu hatırlamak.",
+    "author": "Steve Jobs"
+  },
+  "182": {
+    "quote": "Yaşlandıkça, motivasyonların ne kadar önemli olduğunu anlıyorum. Zune berbattı, çünkü Microsoft'taki insanlar müziği veya sanatı bizim gibi sevmiyorlar. Kazandık çünkü biz kişisel olarak müziği seviyoruz. iPod'u kendimiz için çıldırttıysanız ve kendiniz ya da en iyi arkadaşınız ya da aileniz için bir şeyler yaparken, peynir almayacaksınız. Bir şeyi sevmiyorsanız, fazladan gitmeyeceksiniz. mil, fazladan haftasonu çalış, statükoya zorla gir. ",
+    "author": "Steve Jobs"
+  },
+  "183": {
+    "quote": "Her çocuk bir bilgisayarı programlamayı öğrenmeli çünkü size nasıl düşüneceğinizi öğretecektir.",
+    "author": "Steve Jobs"
+  },
+  "184": {
+    "quote": "İyi insanları işe almak ve onlara ne yapacaklarını söylemek mantıklı değil; bize ne yapmaları gerektiğini söylemeleri için iyi insanları işe alıyoruz.",
+    "author": "Steve Jobs"
+  },
+  "185": {
+    "quote": "Bence eğer bir şeyler yaparsanız ve oldukça iyi çıkıyorsa, o zaman gidip harika bir şey yapmalısınız, üzerinde çok uzun süre kalmayacaksınız. Sadece sırada ne olduğunu anlayın.",
+    "author": "Steve Jobs"
+  },
+  "186": {
+    "quote": "Kalite nicelikten daha önemlidir. Bir evden kaçmak iki kattan çok daha iyidir.",
+    "author": "Steve Jobs"
+  },
+  "187": {
+    "quote": "Teknoloji önemli değil. Önemli olan insanlara olan inancınız, temelde iyi ve zeki oldukları ve onlara araçlar verirseniz, onlarla harika şeyler yapacaklarıdır.",
+    "author": "Steve Jobs"
+  },
+  "188": {
+    "quote": "Ben her zaman daha devrimci değişimlere yakalandım. Nedenini bilmiyorum. Çünkü daha zorlar. Duygusal olarak çok daha stresliler. Ve genellikle herkesin size söylediği bir dönemden geçiyorsunuz tamamen başarısız oldun. ",
+    "author": "Steve Jobs"
+  },
+  "189": {
+    "quote": "İşte çılgınlar, uyumsuzlar, isyancılar, sorun çıkaranlar, kare deliklerdeki yuvarlak mandallar ... Şeyleri farklı görenler - kurallara düşkün değiller ... Onlardan quote yapabilirsiniz, buna katılmıyorsunuz Onları yüceltmek ya da kötüleştirmek, fakat yapamayacağınız tek şey onları görmezden gelmek çünkü şeyleri değiştiriyorlar… İnsan ırkını ileri doğru itiyorlar ve bazıları onları çılgın olarak görse de, biz dehası görüyoruz, çünkü dünyayı değiştirebileceklerini düşünecek kadar çılgınlar, yapanlar. ",
+    "author": "Steve Jobs"
+  },
+  "190": {
+    "quote": "Nihayetinde, tatmak için aşağı iniyor. Kendinizi, insanların yaptığı en iyi şeylere maruz bırakmaya çalışmaktan sonra gelir ve sonra da o şeyleri yaptığınız işe sokmaya çalışır. Picasso'nun bir deyişi vardı: iyi sanatçılar. kopya, harika sanatçılar çalıyor ve biz her zaman harika fikirleri çalmak konusunda utanç duyduk ve bence Macintosh’u harika yapan şeyin bir kısmı, üzerinde çalışan insanların müzisyenler ve şairler ve aynı zamanda sanatçı olan zoologlar ve tarihçilerdi. dünyadaki en iyi bilgisayar bilimcileri. ",
+    "author": "Steve Jobs"
+  },
+  "191": {
+    "quote": "Donanmaya katılmaktan çok korsan olmak daha iyidir.",
+    "author": "Steve Jobs"
+  },
+  "192": {
+    "quote": "Herhangi birisini kir içinde bulabilir; altını bulan kişi olabilir.",
+    "author": "Atasözleri 11:27"
+  },
+  "193": {
+    "quote": "Olmak istediğin kişi ol ve tüm dünyayı ateşe vereceksin!",
+    "author": "Siena Catherine"
+  },
+  "194": {
+    "quote": "Yaptığın herşeyin aşık olmasına izin ver.",
+    "author": "1 Korintliler 16:14"
+  },
+  "195": {
+    "quote": "Her şeye inanan için mümkündür.",
+    "author": "Mark 9:23"
+  },
+  "196": {
+    "quote": "Herkesi bir insan gibi hissetmesini sağlayan biri olun.",
+    "author": "Çocuk Başkan"
+  },
+  "197": {
+    "quote": "Kim kredi alırsa aldırmıyorsanız, başarabilecekleriniz inanılmaz.",
+    "author": "Harry Truman"
+  },
+  "198": {
+    "quote": "Savaşlar yalanlarla başlatılabilirse, gerçekler tarafından durdurulabilirler.",
+    "author": "Julian Assange"
+  },
+  "199": {
+    "quote": "Eğer yaptıklarınızı seviyorsanız ve ne gerekiyorsa yapmaya istekliyseniz, elinizin altında. Ve geceleri yalnız tasarlamak veya inşa etmek istediğinizi düşünmek için harcadığınız her dakikaya değecek. Buna değer, söz veriyorum. ",
+    "author": "Steve Wozniak"
+  },
+  "200": {
+    "quote": "Bir şeyi tasarlayabilirseniz, her şeyi tasarlayabilirsiniz.",
+    "author": "Massimo Vignelli"
+  },
+  "201": {
+    "quote": "Eğer odanın en zeki kişisiyseniz, o zaman yanlış yerdesiniz.",
+    "author": "Konfüçyüs"
+  },
+  "202": {
+    "quote": "Bu dünyadaki hiçbir şey ısrarın yerini alamaz. Yetenek olmaz; hiçbir şey yetenekli başarısız insanlardan daha yaygın değildir. Genius olmaz, tanınmaz deha pratikte bir klişedir. Eğitim olmaz; dünya eğitimli aptallarla dolu. Tek başına sebat ve kararlılık hep güçlü. ",
+    "author": "Ray Kroc"
+  },
+  "203": {
+    "quote": "Eğer sadece para için çalışıyorsanız, asla başaramayacaksınız, fakat yaptığınız işi seviyorsanız ve her zaman müşteriyi ilk önce koyarsanız, başarı sizin olacaktır.",
+    "author": "Ray Kroc"
+  },
+  "204": {
+    "quote": "Geleceğin gerçeği söylemesine izin verin ve her birini çalışmalarına ve başarılarına göre değerlendirin. Şimdiki onlarınki, gerçekten çalıştığım gelecek benimdir.",
+    "author": "Nikola Tesla"
+  },
+  "205": {
+    "quote": "Benim fikrimi çalmaları umrumda değil. Onların da hiçbirinin kendilerinin olmaması umurumda.",
+    "author": "Nikola Tesla"
+  },
+  "206": {
+    "quote": "Yalnız ol, bu buluşun sırrı; yalnız ol, fikir doğduğunda.",
+    "author": "Nikola Tesla"
+  },
+  "207": {
+    "quote": "İnsanoğlunun hissettirdiği gibi insan kalbinden geçen herhangi bir heyecan olduğunu sanmıyorum, çünkü başarının açığa çıkan beyninin bir kısmını yarattığını görüyor. arkadaşlar, aşk, her şey. ",
+    "author": "Nikola Tesla"
+  },
+  "208": {
+    "quote": "Başarısız olmadım. Çalışmayacak 10.000 yöntem buldum.",
+    "author": "Thomas Alva Edison"
+  },
+  "209": {
+    "quote": "Eğer yapabildiğimiz şeyleri hepimiz yaparsak, kelimenin tam anlamıyla kendimizi şaşırtacağız.",
+    "author": "Thomas Alva Edison"
+  },
+  "210": {
+    "quote": "Bana tamamen memnun bir adam göster ve sana bir başarısızlık göstereceğim.",
+    "author": "Thomas Alva Edison"
+  },
+  "211": {
+    "quote": "En büyük zayıflığımız pes etmekte yatar. Başarılı olmanın en kesin yolu her zaman sadece bir kez daha denemektir.",
+    "author": "Thomas Alva Edison"
+  },
+  "212": {
+    "quote": "Sırf bir şeyler yapmayı planladığınız şeyi yapmadığı için işe yaramaz demek değildir.",
+    "author": "Thomas Alva Edison"
+  },
+  "213": {
+    "quote": "Her şey beklerken acele eden ona gelir.",
+    "author": "Thomas Alva Edison"
+  },
+  "214": {
+    "quote": "Olumsuz sonuçlar tam istediğim gibi. Olumlu sonuçlar kadar benim için değerlidir. Yapmayanları bulana kadar işi en iyi yapan şeyi bulamıyorum.",
+    "author": "Thomas Alva Edison"
+  },
+  "215": {
+    "quote": "Başarı berbat bir öğretmendir. Zeki insanları kaybedemeyeceklerini düşünmeye zorlar.",
+    "author": "Bill Gates"
+  },
+  "216": {
+    "quote": "En mutsuz müşterileriniz en büyük öğrenme kaynağınızdır.",
+    "author": "Bill Gates"
+  },
+  "217": {
+    "quote": "Başarıyı kutlamak iyidir ama başarısızlık derslerine dikkat etmek daha önemlidir.",
+    "author": "Bill Gates"
+  },
+  "218": {
+    "quote": "Kendinizi bu dünyadaki hiç kimseyle kıyaslamayın ... eğer böyle yaparsanız, kendinize hakaret ediyorsunuz.",
+    "author": "Bill Gates"
+  },
+  "219": {
+    "quote": "Ben zor bir iş yapmak için tembel birini seçiyorum. Çünkü tembel bir kişi bunu yapmanın kolay bir yolunu bulacaktır.",
+    "author": "Bill Gates"
+  },
+  "220": {
+    "quote": "Sınavda bazı konularda başarısız oldum, ancak arkadaşım geçti. Şimdi Microsoft'ta bir mühendis ve Microsoft'un sahibiyim.",
+    "author": "Bill Gates"
+  },
+  "221": {
+    "quote": "Çoğu insan bir yılda neler yapabileceğini abartıyor ve on yılda neler yapabileceğini küçümsüyor.",
+    "author": "Bill Gates"
+  },
+  "222": {
+    "quote": "Eğer fakir olarak doğarsan, bu senin hatan değil, Ama fakir olarak ölürsen senin hatan.",
+    "author": "Bill Gates"
+  },
+  "223": {
+    "quote": "İnsanlara araçlar verirseniz ve doğal yeteneklerini ve meraklarını kullanırlarsa, sizi beklediğinizden çok daha fazla şaşırtacak şekillerde geliştirirler.",
+    "author": "Bill Gates"
+  },
+  "224": {
+    "quote": "Programlama ilerlemesini kod satırlarıyla ölçmek, uçak binasının ağırlığını ağırlıkla ölçmek gibidir.",
+    "author": "Bill Gates"
+  },
+  "225": {
+    "quote": "Bazı insanlar bana inek diyebilir. Etiketi gururla iddia ediyorum.",
+    "author": "Bill Gates"
+  },
+  "226": {
+    "quote": "Büyük kazanmak için bazen büyük risk almak zorundasınız.",
+    "author": "Bill Gates"
+  },
+  "227": {
+    "quote": "Uzun zaman önce, Ben Graham bana 'Ödediğiniz fiyat, değer ne alırsınız' dedi. İster çoraplar, isterse çoraplar hakkında konuşsak da, işaretlendiğinde kaliteli mal almayı seviyorum. ",
+    "author": "Warren Buffet"
+  },
+  "228": {
+    "quote": "İtibar kazanmak 20 yıl, mahvetmek beş dakika sürüyor. Bunu düşünürseniz farklı şeyler yapacaksınız.",
+    "author": "Warren Buffet"
+  },
+  "229": {
+    "quote": "Birisi bugün gölgede oturuyor çünkü birileri uzun zaman önce bir ağaç dikti.",
+    "author": "Warren Buffet"
+  },
+  "230": {
+    "quote": "Kural No.1: Asla para kaybetme. Kural No.2: Asla kural No.1'i unutma.",
+    "author": "Warren Buffet"
+  },
+  "231": {
+    "quote": "İnsanlarla senden daha iyi takılmak daha iyidir. Davranışlarının seninkinden daha iyi olan ortakları seç ve o yöne doğru sürükleneceksin.",
+    "author": "Warren Buffet"
+  },
+  "232": {
+    "quote": "Yetenek veya çaba ne kadar büyük olursa olsun, bazı şeyler zaman alır.",
+    "author": "Warren Buffet"
+  },
+  "233": {
+    "quote": "Başarılı insanlar ile gerçekten başarılı insanlar arasındaki fark, gerçekten başarılı kişilerin hemen hemen her şeye hayır demesidir.",
+    "author": "Warren Buffet"
+  },
+  "234": {
+    "quote": "Her zaman zengin olacağımı biliyordum. Bir dakika boyunca hiç şüphemediğimi sanmıyorum.",
+    "author": "Warren Buffet"
+  },
+  "235": {
+    "quote": "Uyurken para kazanmanın bir yolunu bulamazsanız, ölene kadar çalışacaksınız.",
+    "author": "Warren Buffet"
+  },
+  "236": {
+    "quote": "Sınavlar için geç çalışmaya başlayın, size zamanı yönetmeyi ve acil durumlarla başa çıkmayı öğretecektir.",
+    "author": "Bill Gates"
+  },
+  "237": {
+    "quote": "Kendine, hayatını değiştirecek ve sorunlarını ortadan kaldıracak bir şey, zaman veya yer olduğunu söylemeyi bırak. Sadece bugün var. Tam burada. Şu anda.",
+    "author": "-"
+  },
+  "238": {
+    "quote": "Durumunuz ortaya çıkmadan önce zihin durumunuz evrimleşmeli.",
+    "author": "-"
+  },
+  "239": {
+    "quote": "Güçlü olmanın tek seçeneğin ne kadar güçlü olduğunu asla bilemezsin.",
+    "author": "Bob Marley"
+  },
+  "240": {
+    "quote": "Bazen doğru yöne giden en küçük adım, hayatınızın en büyük basamağı olur. Gerekirse, ancak bir adım atmanız gerekiyor.",
+    "author": "Naeem Callaway"
+  },
+  "241": {
+    "quote": "Nefes almak istediğiniz kadar kötü olmak istediğinizde başarılı olursunuz.",
+    "author": "Eric Thomas"
+  }
+}
